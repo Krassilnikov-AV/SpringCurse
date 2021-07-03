@@ -4,3 +4,5 @@
 2) Создание директорий resources и java с пометкой Resources Root
 3) Создание Java классов TestBean и TestSpring
 4) Создание applicationContext.xml
+- Инверсия управления. Inversion of Control (IoC)
+- 
