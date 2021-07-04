@@ -14,7 +14,8 @@ public class TestSpring {
 
 		// внедрение зависимостей вручную
 //		MusicPlayer musicPlayer = new MusicPlayer(music);
-		// после внедрения зависимости можно использовать музыкальный плеер
+
+		// после внедрения зависимости можно сразу использовать музыкальный плеер
 		MusicPlayer musicPlayer = context.getBean("musicPlayer", MusicPlayer.class);
 		musicPlayer.playMusik();
 
