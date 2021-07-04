@@ -7,6 +7,7 @@
 
 - SpringApp_IoC
 конфигурация Spring с помощью xml.
+
 На примере музыкального плеера рассматривается  внедрение инверсии управления Inversion of Control (IoC)
 1) создание интерфейса Music
 2) создание Java классов ClassikMusic и RockMusic, которые переопределяют интерфейс Music
