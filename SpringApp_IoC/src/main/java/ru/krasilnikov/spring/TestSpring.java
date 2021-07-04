@@ -6,9 +6,6 @@ package ru.krasilnikov.spring;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-/**
- * Класс TestSpring
- */
 public class TestSpring {
 	public static void main(String[] args) {
 		ClassPathXmlApplicationContext context =
