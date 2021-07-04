@@ -5,9 +5,9 @@
 package ru.krasilnikov.spring;
 
 /**
- * Класс ClassikalMusic
+ * Класс ClassicalMusic
  */
-public class ClassikalMusic implements Music {
+public class ClassicalMusic implements Music {
 	@Override
 	public String getSond() {
 		return "Beethoven";

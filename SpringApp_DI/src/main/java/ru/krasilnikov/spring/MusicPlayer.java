@@ -5,12 +5,12 @@
 package ru.krasilnikov.spring;
 
 /**
- * Класс MusikPlayer
+ * Класс MusicPlayer
  */
-public class MusikPlayer {
+public class MusicPlayer {
 	private Music music;
 // IoC
-	public MusikPlayer(Music music) {
+	public MusicPlayer(Music music) {
 		this.music = music;
 	}
 	public void playMusik() {

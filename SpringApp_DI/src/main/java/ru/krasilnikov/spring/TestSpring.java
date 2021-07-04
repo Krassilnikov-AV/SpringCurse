@@ -10,13 +10,13 @@ public class TestSpring {
 	public static void main(String[] args) {
 		ClassPathXmlApplicationContext context =
 			new ClassPathXmlApplicationContext("applicationContext.xml");
-		Music music = context.getBean("musicBean", Music.class);
+//		Music music = context.getBean("musicBean", Music.class);
 
 		// внедрение зависимостей вручную
-	MusikPlayer musikPlayer=new MusikPlayer(music);
-	// после внедрения зависимости можно использовать музыкальный плеер
-
-		musikPlayer.playMusik();
+//		MusicPlayer musicPlayer = new MusicPlayer(music);
+		// после внедрения зависимости можно использовать музыкальный плеер
+		MusicPlayer musicPlayer = context.getBean("musicPlayer", MusicPlayer.class);
+		musicPlayer.playMusik();
 
 		context.close();
 	}
