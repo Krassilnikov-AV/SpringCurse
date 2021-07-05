@@ -15,7 +15,10 @@
 
 	</bean>
 	<bean id="musicPlayer"
-	      class="ru.krasilnikov.spring.MusicPlayer">
+	      class="ru.krasilnikov.spring.MusicPlayer"
+
+	      scope="prototype">
+	<!--scope="prototype" - позволит создавать объекты при запуске приложения в отличии от сингелтон -->
 		<property name="music" ref="musicBean"/>
 
 		<property name="name" value="${musicPlayer.name}"/>
