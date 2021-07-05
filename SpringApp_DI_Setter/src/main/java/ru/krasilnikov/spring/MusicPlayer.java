@@ -6,6 +6,7 @@ package ru.krasilnikov.spring;
 
 /**
  * Класс MusicPlayer
+ * Задание - создать коллекцию для добавления музыки
  */
 public class MusicPlayer {
 	private Music music;
