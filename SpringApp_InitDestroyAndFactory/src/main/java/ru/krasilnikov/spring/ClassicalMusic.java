@@ -9,9 +9,9 @@ package ru.krasilnikov.spring;
  */
 public class ClassicalMusic implements Music {
 
-	public static ClassicalMusic getClassicalMusic() {
-		return new ClassicalMusic();
-	}
+//	public static ClassicalMusic getClassicalMusic() {
+//		return new ClassicalMusic();
+//	}
 	public  void doMyInit() {
 		System.out.println("Doing my initialization");
 	}

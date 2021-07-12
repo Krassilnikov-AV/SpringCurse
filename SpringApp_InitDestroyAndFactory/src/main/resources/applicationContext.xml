@@ -13,17 +13,19 @@
 	      class="ru.krasilnikov.spring.ClassicalMusic"
 	      init-method="doMyInit"
 	      destroy-method="doMyDestroy"
-	      factory-method="getClassicalMusic">
+	      scope="prototype">
+		<!--создание фабрики-->
+	      <!--factory-method="getClassicalMusic">-->
 		</bean>
-	<!--<bean id="musicPlayer"-->
-	<!--class="ru.krasilnikov.spring.MusicPlayer"-->
+	<bean id="musicPlayer"
+	class="ru.krasilnikov.spring.MusicPlayer"
 
-	<!--scope="prototype">-->
-	<!--&lt;!&ndash;scope="prototype" - позволит создавать объекты при запуске приложения в отличии от сингелтон &ndash;&gt;-->
-	<!--<property name="music" ref="musicBean"/>-->
+	scope="prototype">
+	<!--scope="prototype" - позволит создавать объекты при запуске приложения в отличии от сингелтон -->
+	<property name="music" ref="musicBean"/>
 
-	<!--<property name="name" value="${musicPlayer.name}"/>-->
-	<!--<property name="volume" value="${musicPlayer.volume}"/>-->
-	<!--</bean>-->
+	<property name="name" value="${musicPlayer.name}"/>
+	<property name="volume" value="${musicPlayer.volume}"/>
+	</bean>
 
 </beans>

@@ -12,26 +12,27 @@ public class TestSpring {
 			"applicationContext.xml"
 		);
 
-		ClassicalMusic classicalMusic = context.getBean("musicBean", ClassicalMusic.class);
+//		ClassicalMusic classicalMusic = context.getBean("musicBean", ClassicalMusic.class);
+//		System.out.println(classicalMusic.getSond());
 
-		System.out.println(classicalMusic.getSond());
+		ClassicalMusic classicalMusic1 = context.getBean("musicBean", ClassicalMusic.class);
+		System.out.println(classicalMusic1.getSond());
 
-//		MusicPlayer firstmMsicPlayer = context.getBean("musicPlayer", MusicPlayer.class);
-//		MusicPlayer secondMusicPlayer = context.getBean("musicPlayer", MusicPlayer.class);
+		MusicPlayer firstmMsicPlayer = context.getBean("musicPlayer", MusicPlayer.class);
+		MusicPlayer secondMusicPlayer = context.getBean("musicPlayer", MusicPlayer.class);
 // проверка указания объектов на один и тот же участок памяти
 		// тем самым убедимся что по умолчанию Singelton запускает
-//		boolean comparison = firstmMsicPlayer == secondMusicPlayer;
+		boolean comparison = firstmMsicPlayer == secondMusicPlayer;
 
-
-//		System.out.println(comparison);
+		System.out.println(comparison);
 //
-//		System.out.println(firstmMsicPlayer);
-//		System.out.println(secondMusicPlayer);
+		System.out.println(firstmMsicPlayer);
+		System.out.println(secondMusicPlayer);
 // при установке громкости на первом объекте, у второго установится такая же громкость
-//		firstmMsicPlayer.setVolume(10);
+		firstmMsicPlayer.setVolume(10);
 ////
-//		System.out.println(firstmMsicPlayer.getVolume());
-//		System.out.println(secondMusicPlayer.getVolume());
+		System.out.println(firstmMsicPlayer.getVolume());
+		System.out.println(secondMusicPlayer.getVolume());
 
 //		System.out.println(musicPlayer.getName());
 //		System.out.println(musicPlayer.getVolume());
