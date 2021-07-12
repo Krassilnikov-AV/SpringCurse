@@ -40,4 +40,4 @@ _ _ _ _
 2)	**_prototype_** - создается новый экземпляр при каждом запросе.
 _ _ _ _ 
 - SpringApp_InitDestroyAndFactory </p>
-B примере рассматривается жизненный цикл бина, при помощи создания методов public  void doMyInit() и public  void doMyDestroy().</p>
+B примере рассматривается жизненный цикл бина, при помощи создания методов public static ClassicalMusic getClassicalMusic(), возвращающим экземпляр ClassicalMusic, метода public  void doMyInit() и public  void doMyDestroy() и прописанием методов в applicationContext.xml</p> В консоли выведится порядок вызываемых методов, что и покажет жизненный цикл Бина.
