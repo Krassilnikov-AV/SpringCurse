@@ -40,7 +40,7 @@ _ _ _ _
 2)	**_prototype_** - создается новый экземпляр при каждом запросе.
 _ _ _ _ 
 - SpringApp_InitDestroyAndFactory </p>
-B примере рассматривается жизненный цикл бина, при помощи создания методов public static ClassicalMusic getClassicalMusic(), возвращающим экземпляр ClassicalMusic, метода public  void doMyInit() и public  void doMyDestroy() и прописанием методов в applicationContext.xml</p> В консоли выведится порядок вызываемых методов, что и покажет жизненный цикл Бина.</p>
+B примере рассматривается жизненный цикл бина, при помощи создания методов public static ClassicalMusic getClassicalMusic() (особого фабричного метода), возвращающим экземпляр ClassicalMusic, метода public  void doMyInit() и public  void doMyDestroy() и прописанием методов в applicationContext.xml</p> В консоли выведится порядок вызываемых методов, что и покажет жизненный цикл Бина.</p>
 Основные особенности  **_init_** и **_destroy_** методов</p>
 1. **Модификатор доступа** - у данных методов может быть любой модификатор (_public, protected, private_)
 2. **Тип возвращаемого значения** - может быть любой, но чаще всего используется _void_ (т.к. нет возможности получить возвращаемое значение).
