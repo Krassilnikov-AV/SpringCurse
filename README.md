@@ -63,8 +63,10 @@ _ _ _ _
 ![Аннотация_Component](https://user-images.githubusercontent.com/61631173/125493095-b4e826ba-4f56-4747-a430-826d1823f59b.JPG)
 </p>
 - В данном примере ввели следующую строку в applicationContext.xml
- </p>![applicationContext](https://user-images.githubusercontent.com/61631173/125494840-e6ec6226-caa8-4c19-8149-cfbe44a95dea.JPG)</p>
+
+ ![applicationContext](https://user-images.githubusercontent.com/61631173/125494840-e6ec6226-caa8-4c19-8149-cfbe44a95dea.JPG)
+ 
  где указан пакет, в котором Spring будет сканировать и искать все классы с аннотаией Component, при нахождении определённой аннотации будет созlан Бин из этого класса.</p>
+ 
  ![RockMusic_Component](https://user-images.githubusercontent.com/61631173/125497544-61966318-19f5-47b5-b85e-6b269fc3c9bf.JPG)
-![TestSpring_Component](https://user-images.githubusercontent.com/61631173/125497551-4007f8fd-2262-45c6-9fcf-5e5d88e4fc7f.JPG)
-![ClassicalMusic_Component](https://user-images.githubusercontent.com/61631173/125497554-ddd99003-9dc0-47f8-b886-1279077bef17.JPG)
+ 
