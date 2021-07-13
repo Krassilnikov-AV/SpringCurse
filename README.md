@@ -63,4 +63,4 @@ _ _ _ _
 ![Аннотация_Component](https://user-images.githubusercontent.com/61631173/125493095-b4e826ba-4f56-4747-a430-826d1823f59b.JPG)
 </p>
 - В данном примере ввели следующую строку в applicationContext.xml
- </p>![applicationContext](https://user-images.githubusercontent.com/61631173/125494121-c9d4d176-0dca-400a-a2da-3cc11ec52da4.JPG)</p>
+ </p>![applicationContext](https://user-images.githubusercontent.com/61631173/125494840-e6ec6226-caa8-4c19-8149-cfbe44a95dea.JPG)</p>
