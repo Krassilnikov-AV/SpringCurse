@@ -61,4 +61,7 @@ _ _ _ _
 ![зачем аннотации](https://user-images.githubusercontent.com/61631173/125492055-b7366dfd-238c-4799-979f-db73f0424dfb.JPG)</p>
 ![как работает конфигурация с помощью аннотации](https://user-images.githubusercontent.com/61631173/125492630-9ccb877a-016b-4e87-a9b8-8470ede2bbbb.JPG)</p>
 ![Аннотация_Component](https://user-images.githubusercontent.com/61631173/125493095-b4e826ba-4f56-4747-a430-826d1823f59b.JPG)
+</p>
+- В данном примере ввели следующую строку в applicationContext.xml
+ </p>
 
