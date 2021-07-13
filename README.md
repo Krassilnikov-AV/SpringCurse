@@ -57,4 +57,5 @@ B примере рассматривается жизненный цикл би
 При создании нескольких объектов класса, при factory-method="getClassicalMusic" (Фабрики) инициализация осуществляется только один раз. В даном примере показано это свойство</p>
 _ _ _ _
 - SpringApp_AnnotationStart</p>
-![Tux, the Linux mascot](D:\INTERVIEW\Spring\VIDEO\Алишев/Аннотации.jpg)
+![Аннотации](https://user-images.githubusercontent.com/61631173/125491644-23f68041-f9df-4c0a-acf7-b953805ad84e.JPG)
+
