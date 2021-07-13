@@ -80,4 +80,11 @@ _ _ _ _
  В тестовом классе создано два экземпляра разных классов для демонстрации вывода в консоли результатов:
  
 ![TestSpring_Component](https://user-images.githubusercontent.com/61631173/125497551-4007f8fd-2262-45c6-9fcf-5e5d88e4fc7f.JPG)
+</p>
+_ _ _ _
 
+- SpringApp_Autowired
+
+![Annotation_Autowired](https://user-images.githubusercontent.com/61631173/125503187-aa35eb0b-280e-47ac-8801-a44010fdd5f5.JPG)</p>
+
+![Annotation_Autowired_как работает](https://user-images.githubusercontent.com/61631173/125504564-d61c18ca-2fbe-45f4-8e5c-4fd4696f5314.JPG)
