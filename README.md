@@ -65,4 +65,5 @@ _ _ _ _
 - В данном примере ввели следующую строку в applicationContext.xml
  </p>![applicationContext](https://user-images.githubusercontent.com/61631173/125494840-e6ec6226-caa8-4c19-8149-cfbe44a95dea.JPG)</p>
  где указан пакет, в котором Spring будет сканировать и искать все классы с аннотаией Component, при нахождении определённой аннотации будет созlан Бин из этого класса.</p>
- 
+ ![ClassicalMusic_Component](https://user-images.githubusercontent.com/61631173/125497026-42c590b6-0fe7-4ec7-a680-c5e673a7e9fe.JPG)
+![RockMusic_Component](https://user-images.githubusercontent.com/61631173/125497039-daa92a21-a677-4085-b9ac-5347d23f7cd6.JPG)
