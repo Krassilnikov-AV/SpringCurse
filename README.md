@@ -64,4 +64,6 @@ _ _ _ _
 </p>
 - В данном примере ввели следующую строку в applicationContext.xml
  </p>
+![applicationContext](https://user-images.githubusercontent.com/61631173/125494121-c9d4d176-0dca-400a-a2da-3cc11ec52da4.JPG)</p>
+
 
