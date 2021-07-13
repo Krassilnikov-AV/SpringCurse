@@ -55,3 +55,29 @@ B примере рассматривается жизненный цикл би
 - при scope _"prototype"_ не вызывается destroy метод;
 -  _init-method_ вызовется каждый раз при каждом создании экземпляра класса.</p>
 При создании нескольких объектов класса, при factory-method="getClassicalMusic" (Фабрики) инициализация осуществляется только один раз. В даном примере показано это свойство</p>
+_ _ _ _
+- SpringApp_AnnotationStart</p>
+![Аннотации](https://user-images.githubusercontent.com/61631173/125491644-23f68041-f9df-4c0a-acf7-b953805ad84e.JPG)</p>
+![зачем аннотации](https://user-images.githubusercontent.com/61631173/125492055-b7366dfd-238c-4799-979f-db73f0424dfb.JPG)</p>
+![как работает конфигурация с помощью аннотации](https://user-images.githubusercontent.com/61631173/125492630-9ccb877a-016b-4e87-a9b8-8470ede2bbbb.JPG)</p>
+![Аннотация_Component](https://user-images.githubusercontent.com/61631173/125493095-b4e826ba-4f56-4747-a430-826d1823f59b.JPG)
+</p>
+- В данном примере ввели следующую строку в applicationContext.xml
+
+ ![applicationContext](https://user-images.githubusercontent.com/61631173/125494840-e6ec6226-caa8-4c19-8149-cfbe44a95dea.JPG)
+ 
+ где указан пакет, в котором Spring будет сканировать и искать все классы с аннотаией Component, при нахождении определённой аннотации будет созlан Бин из этого класса.</p>
+ В приведённом примере отработана аннотация Component, которая была введена перед классами RockMusic и ClassicalMusik 
+ 
+ ![RockMusic_Component](https://user-images.githubusercontent.com/61631173/125497544-61966318-19f5-47b5-b85e-6b269fc3c9bf.JPG)
+ 
+  @Component  перед классом RockMusic 
+  
+  ![ClassicalMusic_Component](https://user-images.githubusercontent.com/61631173/125497554-ddd99003-9dc0-47f8-b886-1279077bef17.JPG)
+  
+  @Component  перед классом ClassicalMusik 
+ 
+ В тестовом классе создано два экземпляра разных классов для демонстрации вывода в консоли результатов:
+ 
+![TestSpring_Component](https://user-images.githubusercontent.com/61631173/125497551-4007f8fd-2262-45c6-9fcf-5e5d88e4fc7f.JPG)
+
