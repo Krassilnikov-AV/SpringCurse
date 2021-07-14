@@ -81,10 +81,18 @@ _ _ _ _
  
 ![TestSpring_Component](https://user-images.githubusercontent.com/61631173/125497551-4007f8fd-2262-45c6-9fcf-5e5d88e4fc7f.JPG)
 </p>
+
 _ _ _ _
 
-- SpringApp_Autowired
+- SpringApp_Autowired, в приведённом примере рассматривалась аннотация **_Autowired_** и её основные свойства
 
 ![Annotation_Autowired](https://user-images.githubusercontent.com/61631173/125503187-aa35eb0b-280e-47ac-8801-a44010fdd5f5.JPG)</p>
 
-![Annotation_Autowired_как работает](https://user-images.githubusercontent.com/61631173/125504564-d61c18ca-2fbe-45f4-8e5c-4fd4696f5314.JPG)
+![Annotation_Autowired_как работает](https://user-images.githubusercontent.com/61631173/125504564-d61c18ca-2fbe-45f4-8e5c-4fd4696f5314.JPG)</p>
+
+![Annotation_Autowired_ещё об](https://user-images.githubusercontent.com/61631173/125550365-5640c2b8-03d3-4827-8633-7ed26147096c.JPG)</p>
+
+![Annotation_Autowired_ещё об 1](https://user-images.githubusercontent.com/61631173/125550367-13480f64-2e8b-43b1-b6ae-27c02b6ce1b7.JPG)</p>
+
+![Annotation_Autowired_ещё об 2](https://user-images.githubusercontent.com/61631173/125550369-437c9536-2998-4c92-b6dc-57c4c94d63c7.JPG)
+
