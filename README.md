@@ -112,3 +112,4 @@ _ _ _ _
 
 ... исправим приватное поле в классе MusicPlayer c класса ClassicalMusic на интерфейс Music, тем самым мы Spring, что хотим внедрить тот Бин, который реализует интерфейс Music.
 ![пример @Autowired_MusicPlayer_ без @Component_параметр конструктора MusicPlayer интерфейс Music](https://user-images.githubusercontent.com/61631173/125557859-c585dfcc-472d-4c38-a462-e0418fbbeac0.JPG)</p>
+... как можно убедиться, в Spring внедрён Бин Music и MusicPlayer играет рок музыку. 
