@@ -16,6 +16,11 @@ public class MusicPlayer {
 		this.music = music;
 	}
 
+	@Autowired
+	public void setMusic(Music music) {
+		this.music = music;
+	}
+
 	public void playMusik() {
 		System.out.println("Playing: " + music.getSond());
 	}
