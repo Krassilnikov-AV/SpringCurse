@@ -6,22 +6,21 @@ package ru.krasilnikov.spring;
 
 import org.springframework.stereotype.Component;
 
+import java.util.*;
+
 @Component
 public class ClassicalMusic implements Music {
 
-	public static ClassicalMusic getClassicalMusic() {
-		System.out.println("method called getClassicalMusic()");
-		return new ClassicalMusic();
-	}
-	public  void doMyInit() {
-		System.out.println("Doing my initialization");
-	}
-
-	public  void doMyDestroy() {
-		System.out.println("Doing my destruction ");
+	private List<String> songs=new ArrayList<>();
+	// Блок инициализации объекта (англ. Instance initialization block)
+	// Выполняется каждый раз, когда создается объект класса
+	{
+		songs.add("Swan Lake");
+		songs.add("The Nutcracker");
+		songs.add("The whole camp is asleep");
 	}
 	@Override
-	public String getSong() {
-		return "Beethoven";
+	public List<String> getSong() {
+		return songs;
 	}
 }
