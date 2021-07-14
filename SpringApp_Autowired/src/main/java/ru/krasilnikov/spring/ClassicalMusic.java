@@ -4,6 +4,9 @@
 
 package ru.krasilnikov.spring;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class ClassicalMusic implements Music {
 
 	public static ClassicalMusic getClassicalMusic() {
@@ -18,7 +21,7 @@ public class ClassicalMusic implements Music {
 		System.out.println("Doing my destruction ");
 	}
 	@Override
-	public String getSond() {
+	public String getSong() {
 		return "Beethoven";
 	}
 }

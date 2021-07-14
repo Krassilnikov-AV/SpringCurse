@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class RockMusic implements Music {
 	@Override
-	public String getSond() {
+	public String getSong() {
 		return "The Wind Cries Mary";
 	}
 }
