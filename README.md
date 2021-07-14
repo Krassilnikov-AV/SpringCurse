@@ -125,4 +125,12 @@ Spring все равно как называется метод, он наход
 
 Внедрение @Autowired через конструктор с параметрами классов ClassicalMusic и RockMusic:👍  </p>
 ![пример @Autowired_MusicPlayer_ с добавлением конструктора класса MusicPlayer  с параметрами классов ClassicalMusic RockMusic и введением @Componetn в класс ClassicalMusic](https://user-images.githubusercontent.com/61631173/125562953-7b76ea20-7f38-4469-b9a0-5301dac2eeaa.JPG)</p>
+Внедрение зависимостей Spring-ом внутри других зависимостей:👍  </p>
+Создание дополнительного клсса Computer:👍  </p>
+![пример @Autowired_MusicPlayer_ с добавлением класса Computer_класс Computer](https://user-images.githubusercontent.com/61631173/125569130-b9bfc5de-4e53-47e7-b960-929b8fe7bcc2.JPG)</p>
 
+.... изменения в классе MusicPlayer:👍  </p>
+![пример @Autowired_MusicPlayer_ с добавлением класса Computer](https://user-images.githubusercontent.com/61631173/125569128-5765b567-b6a5-4374-ad1b-7f25c89ef3af.JPG)</p>
+
+.... создание экземпляра в классе TestSpring:👍  </p>
+![пример @Autowired_MusicPlayer_ с добавлением класса Computer_класс TestSpring](https://user-images.githubusercontent.com/61631173/125569123-41b38af8-efeb-447c-91a4-18bac0a6e1b6.JPG)</p>
