@@ -84,7 +84,7 @@ _ _ _ _
 
 _ _ _ _
 
-- SpringApp_Autowired, в приведённом примере рассматривалась аннотация **_Autowired_** и её основные свойства
+- SpringApp_Autowired - _**Внедрение зависмостей (Dependency Injectiin)**_ в приведённом примере рассматривалась аннотация **_Autowired_** и её основные свойства
 
 ![Annotation_Autowired](https://user-images.githubusercontent.com/61631173/125503187-aa35eb0b-280e-47ac-8801-a44010fdd5f5.JPG)</p>
 
