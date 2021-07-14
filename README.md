@@ -147,3 +147,11 @@ _ _ _ _
 ![@Qualifier_пример_введение аннотации к каждому параметру в конструкторе](https://user-images.githubusercontent.com/61631173/125617527-86a55a97-8fae-476b-be72-6189739c3ae3.JPG)
 После всего проделоного и изученого, можно выполнить самостоятельно задание на пройденную тему
 ![Задание_@Qualifier](https://user-images.githubusercontent.com/61631173/125617529-90a6d365-c7c2-4158-b7cf-893b7d8fe587.JPG)
+
+![ClassicalMusic](https://user-images.githubusercontent.com/61631173/125629161-9c616232-91cf-4e43-ae5e-3d3e062a4e1a.JPG)
+
+![MusicPlayer](https://user-images.githubusercontent.com/61631173/125629163-adeb6877-7221-4486-b88d-28851422990d.JPG)
+
+![Musik_интерфейс](https://user-images.githubusercontent.com/61631173/125629164-3c497ead-6e64-4505-9c86-ee5e954664c8.JPG)
+
+![TestSpring](https://user-images.githubusercontent.com/61631173/125629165-43bd4adf-a2b4-4a19-b88b-d34d6c66badf.JPG)
