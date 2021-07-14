@@ -96,3 +96,16 @@ _ _ _ _
 
 ![Annotation_Autowired_ещё об 2](https://user-images.githubusercontent.com/61631173/125550369-437c9536-2998-4c92-b6dc-57c4c94d63c7.JPG)
 
+Рассмотрение @Autowired в коде...
+
+в классе MusicPlayer поставлена @Autowired
+
+![пример @Autowired_MusicPlayer](https://user-images.githubusercontent.com/61631173/125554770-c5d62a7d-89d4-460f-ad4f-14dc0625e89d.JPG)</p>
+
+проверка выпонения в консоли
+![пример @Autowired_TestSpring](https://user-images.githubusercontent.com/61631173/125555178-749b9b8d-6af6-4227-9d0f-9721cc42cba5.JPG)</p>
+
+убрали @Component  перед классом ClassicalMusik:
+![пример @Autowired_MusicPlayer_ без @Component](https://user-images.githubusercontent.com/61631173/125554765-90399b95-2526-46fe-a49e-770b39323cd0.JPG)</p>
+проверка выпонения в классе TestSpring без @Component перед классом ClassicalMusik:rage1:
+![пример @Autowired_TestSpring_ошибка выполнения_что ожидается Бин](https://user-images.githubusercontent.com/61631173/125554769-476a98e6-02ef-468f-a03f-52fbfd42dcb0.JPG)
