@@ -81,10 +81,39 @@ _ _ _ _
  
 ![TestSpring_Component](https://user-images.githubusercontent.com/61631173/125497551-4007f8fd-2262-45c6-9fcf-5e5d88e4fc7f.JPG)
 </p>
+
 _ _ _ _
 
-- SpringApp_Autowired
+- SpringApp_Autowired - _**Внедрение зависмостей (Dependency Injectiin)**_ в приведённом примере рассматривалась аннотация **_Autowired_** и её основные свойства
 
 ![Annotation_Autowired](https://user-images.githubusercontent.com/61631173/125503187-aa35eb0b-280e-47ac-8801-a44010fdd5f5.JPG)</p>
 
-![Annotation_Autowired_как работает](https://user-images.githubusercontent.com/61631173/125504564-d61c18ca-2fbe-45f4-8e5c-4fd4696f5314.JPG)
+![Annotation_Autowired_как работает](https://user-images.githubusercontent.com/61631173/125504564-d61c18ca-2fbe-45f4-8e5c-4fd4696f5314.JPG)</p>
+
+![Annotation_Autowired_ещё об](https://user-images.githubusercontent.com/61631173/125550365-5640c2b8-03d3-4827-8633-7ed26147096c.JPG)</p>
+
+![Annotation_Autowired_ещё об 1](https://user-images.githubusercontent.com/61631173/125550367-13480f64-2e8b-43b1-b6ae-27c02b6ce1b7.JPG)</p>
+
+![Annotation_Autowired_ещё об 2](https://user-images.githubusercontent.com/61631173/125550369-437c9536-2998-4c92-b6dc-57c4c94d63c7.JPG)
+
+Рассмотрение @Autowired в коде...
+
+в классе MusicPlayer поставлена @Autowired
+
+![пример @Autowired_MusicPlayer](https://user-images.githubusercontent.com/61631173/125554770-c5d62a7d-89d4-460f-ad4f-14dc0625e89d.JPG)</p>
+
+проверка выпонения в консоли
+![пример @Autowired_TestSpring](https://user-images.githubusercontent.com/61631173/125555178-749b9b8d-6af6-4227-9d0f-9721cc42cba5.JPG)</p>
+Ситуация, когда Spring не найдёт нужный Бин для внедрения в MusicPlayer, для этого убрали @Component  перед классом ClassicalMusik:
+![пример @Autowired_MusicPlayer_ без @Component](https://user-images.githubusercontent.com/61631173/125554765-90399b95-2526-46fe-a49e-770b39323cd0.JPG)</p>
+...таким образом у Spring не будет Бина, который подходит для конструктора public MusicPlayer(ClassicalMusic classicalMusic) класса MusicPlayer</p>
+Проверка выпонения в классе TestSpring без @Component перед классом ClassicalMusik:rage1:
+![пример @Autowired_TestSpring_ошибка выполнения_что ожидается Бин](https://user-images.githubusercontent.com/61631173/125554769-476a98e6-02ef-468f-a03f-52fbfd42dcb0.JPG)</p>
+
+... исправим приватное поле в классе MusicPlayer c класса ClassicalMusic на интерфейс Music, тем самым мы Spring, что хотим внедрить тот Бин, который реализует интерфейс Music.
+![пример @Autowired_MusicPlayer_ без @Component_параметр конструктора MusicPlayer интерфейс Music](https://user-images.githubusercontent.com/61631173/125557859-c585dfcc-472d-4c38-a462-e0418fbbeac0.JPG)</p>
+... как можно убедиться, в Spring внедрён Бин Music и MusicPlayer играет рок музыку. </p>
+При вернуть обратно @Component в класс ClassicalMusic, то получится неоднозначность, т.к. по условию конструктора public MusicPlayer(Music music) проходит Бин ClassicalMusic и RockMusic и они оба реализуют интерфейс Music. </p> Результатом выполнения будет ошибка. :rage1: </p>
+![пример @Autowired_TestSpring_ошибка выполнения_неоднозначность, реализация интерфейса несколькими Бинами](https://user-images.githubusercontent.com/61631173/125559430-82123d76-522f-4e8f-aa7e-41bd0e311f6c.JPG)</p>
+
+
