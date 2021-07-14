@@ -114,6 +114,6 @@ _ _ _ _
 ![пример @Autowired_MusicPlayer_ без @Component_параметр конструктора MusicPlayer интерфейс Music](https://user-images.githubusercontent.com/61631173/125557859-c585dfcc-472d-4c38-a462-e0418fbbeac0.JPG)</p>
 ... как можно убедиться, в Spring внедрён Бин Music и MusicPlayer играет рок музыку. </p>
 При вернуть обратно @Component в класс ClassicalMusic, то получится неоднозначность, т.к. по условию конструктора public MusicPlayer(Music music) проходит Бин ClassicalMusic и RockMusic и они оба реализуют интерфейс Music. </p> Результатом выполнения будет ошибка. :rage1: </p>
-![пример @Autowired_TestSpring_ошибка выполнения_неоднозначность, реализация интерфейса несколькими Бинами](https://user-images.githubusercontent.com/61631173/125559254-0efcf112-d098-4500-ab5f-bbf4832e8184.JPG)</p>
+![пример @Autowired_TestSpring_ошибка выполнения_неоднозначность, реализация интерфейса несколькими Бинами](https://user-images.githubusercontent.com/61631173/125559430-82123d76-522f-4e8f-aa7e-41bd0e311f6c.JPG)</p>
 
 
