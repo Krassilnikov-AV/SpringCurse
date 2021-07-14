@@ -106,6 +106,6 @@ _ _ _ _
 ![пример @Autowired_TestSpring](https://user-images.githubusercontent.com/61631173/125555178-749b9b8d-6af6-4227-9d0f-9721cc42cba5.JPG)</p>
 Ситуация, когда Spring не найдёт нужный Бин для внедрения в MusicPlayer, для этого убрали @Component  перед классом ClassicalMusik:
 ![пример @Autowired_MusicPlayer_ без @Component](https://user-images.githubusercontent.com/61631173/125554765-90399b95-2526-46fe-a49e-770b39323cd0.JPG)</p>
-...таким образом у Spring не будет Бина, который подходит для конструктора public MusicPlayer(ClassicalMusic classicalMusic) класса MusicPlayer
-проверка выпонения в классе TestSpring без @Component перед классом ClassicalMusik:rage1:
+...таким образом у Spring не будет Бина, который подходит для конструктора public MusicPlayer(ClassicalMusic classicalMusic) класса MusicPlayer</p>
+Проверка выпонения в классе TestSpring без @Component перед классом ClassicalMusik:rage1:
 ![пример @Autowired_TestSpring_ошибка выполнения_что ожидается Бин](https://user-images.githubusercontent.com/61631173/125554769-476a98e6-02ef-468f-a03f-52fbfd42dcb0.JPG)
