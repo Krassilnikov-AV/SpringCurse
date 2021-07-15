@@ -4,15 +4,22 @@
 
 package ru.krasilnikov.spring;
 
-import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
+import javax.annotation.*;
 import java.util.*;
 
 @Component
-@Scope("prototype")
+//@Scope("singleton")
 public class ClassicalMusic implements Music {
-
+@PostConstruct
+	public void doMyInit() {
+		System.out.println("Doing my initialization");
+	}
+	@PreDestroy
+	public void doMyDestroy() {
+		System.out.println("Doing my destruction");
+	}
 	private List<String> songs=new ArrayList<>();
 	// Блок инициализации объекта (англ. Instance initialization block)
 	// Выполняется каждый раз, когда создается объект класса
