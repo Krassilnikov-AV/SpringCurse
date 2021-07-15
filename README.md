@@ -158,7 +158,13 @@ _ _ _ _
 
 ![внедрение внешних значений при помощи xml](https://user-images.githubusercontent.com/61631173/125738037-67d8a8d2-39f0-4a4e-ba8b-cd2712adf066.JPG)
 
-![внедрение внешних значений при помощи @Value](https://user-images.githubusercontent.com/61631173/125738089-4198c885-3bb3-46cc-a2b3-0496bbc20970.JPG)
+![внедрение внешних значений при помощи @Value](https://user-images.githubusercontent.com/61631173/125738089-4198c885-3bb3-46cc-a2b3-0496bbc20970.JPG)</p>
+Реализация на примере...
+![пример_Value_musicPlayer properties](https://user-images.githubusercontent.com/61631173/125784801-30824104-83ff-41f1-82d7-2ed61fd996f7.JPG)
+
+![пример_MusicPlayer](https://user-images.githubusercontent.com/61631173/125784822-af6fdf81-f8e5-4ebf-be2b-de3ba1c9aec5.JPG)
+
+![пример_TestSpring](https://user-images.githubusercontent.com/61631173/125784852-502a34fb-d5cc-4c68-900a-bcc69427f2fe.JPG)
 
 ![Область видимости Бинов_Scope_xml](https://user-images.githubusercontent.com/61631173/125738146-9aa4ef26-a6cd-4624-896c-7568b7304617.JPG)
 
