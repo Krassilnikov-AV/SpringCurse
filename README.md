@@ -178,8 +178,8 @@ _ _ _ _
 Демонстрация области видимости на примере:
 ![пример_Scope_singleton_ClassicalMusic](https://user-images.githubusercontent.com/61631173/125790937-e63099e5-56ad-4876-91eb-2537ade1d6ec.JPG)</p>
 проверка @Scope "singleton". Проверка объектов в главном классе, значение true, говорит о том что объекты одинаковы, подтвержение того что Scope singleton сработал правильно.
-![пример_Scope_singleton_TestSpring](https://user-images.githubusercontent.com/61631173/125791021-5cb35509-adf0-4e0f-8949-79be92114c85.JPG)
-
+![пример_Scope_singleton_TestSpring](https://user-images.githubusercontent.com/61631173/125792540-08dcba53-cad6-46d7-b71a-c486505f685e.JPG)</p>
+Демонстрация @Scope "prototype" вместе с выводом в консоли false
 ![пример_Scope_prototype_ClassicalMusic](https://user-images.githubusercontent.com/61631173/125791160-9afdc2bf-0d2a-432e-9974-33f36e321047.JPG)
 
 ![жизненный цикл Бина](https://user-images.githubusercontent.com/61631173/125738332-d6a66891-4f9e-4ee5-8e7f-ff3b6420348f.JPG)
