@@ -147,3 +147,38 @@ _ _ _ _
 ![@Qualifier_пример_введение аннотации к каждому параметру в конструкторе](https://user-images.githubusercontent.com/61631173/125617527-86a55a97-8fae-476b-be72-6189739c3ae3.JPG)
 После всего проделоного и изученого, можно выполнить самостоятельно задание на пройденную тему
 ![Задание_@Qualifier](https://user-images.githubusercontent.com/61631173/125617529-90a6d365-c7c2-4158-b7cf-893b7d8fe587.JPG)
+
+![ClassicalMusic](https://user-images.githubusercontent.com/61631173/125629161-9c616232-91cf-4e43-ae5e-3d3e062a4e1a.JPG)
+
+![MusicPlayer](https://user-images.githubusercontent.com/61631173/125629163-adeb6877-7221-4486-b88d-28851422990d.JPG)
+
+![Musik_интерфейс](https://user-images.githubusercontent.com/61631173/125629164-3c497ead-6e64-4505-9c86-ee5e954664c8.JPG)
+
+![TestSpring](https://user-images.githubusercontent.com/61631173/125629165-43bd4adf-a2b4-4a19-b88b-d34d6c66badf.JPG)
+
+![внедрение внешних значений при помощи xml](https://user-images.githubusercontent.com/61631173/125738037-67d8a8d2-39f0-4a4e-ba8b-cd2712adf066.JPG)
+
+![внедрение внешних значений при помощи @Value](https://user-images.githubusercontent.com/61631173/125738089-4198c885-3bb3-46cc-a2b3-0496bbc20970.JPG)</p>
+Реализация на примере...
+![пример_Value_musicPlayer properties](https://user-images.githubusercontent.com/61631173/125784801-30824104-83ff-41f1-82d7-2ed61fd996f7.JPG)
+
+![пример_MusicPlayer](https://user-images.githubusercontent.com/61631173/125784822-af6fdf81-f8e5-4ebf-be2b-de3ba1c9aec5.JPG)
+
+![пример_TestSpring](https://user-images.githubusercontent.com/61631173/125784852-502a34fb-d5cc-4c68-900a-bcc69427f2fe.JPG)
+
+![Область видимости Бинов_Scope_xml](https://user-images.githubusercontent.com/61631173/125738146-9aa4ef26-a6cd-4624-896c-7568b7304617.JPG)
+
+![Область видимости Бинов_Scope_Singleton vs  Prototype](https://user-images.githubusercontent.com/61631173/125738229-766cbc81-6b60-47ac-8304-9a46d98ab14d.JPG)
+
+![Область видимости Бинов_@Scope](https://user-images.githubusercontent.com/61631173/125738287-a322f463-6871-4ab1-9648-555e58042ca0.JPG)
+
+![жизненный цикл Бина](https://user-images.githubusercontent.com/61631173/125738332-d6a66891-4f9e-4ee5-8e7f-ff3b6420348f.JPG)
+
+![жизненный цикл Бина_методы](https://user-images.githubusercontent.com/61631173/125738406-46f8e669-0d93-4b4f-9402-04f0f0910dd3.JPG)
+
+![жизненный цикл Бина_@PostConstruct_@PreDestroy](https://user-images.githubusercontent.com/61631173/125738557-483b91cc-7cd1-4d53-8a72-226c6ed78577.JPG)
+
+![жизненный цикл Бина_пример_@PostConstruct_@PreDestroy](https://user-images.githubusercontent.com/61631173/125738488-4358f829-7f86-4964-852b-93bb8343965e.JPG)
+
+![жизненный цикл Бина_сигнатура_@PostConstruct_@PreDestroy](https://user-images.githubusercontent.com/61631173/125738614-f55834dd-7b2e-4fd7-b649-31be7f266bc3.JPG)
+
