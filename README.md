@@ -1,4 +1,5 @@
-# SpringCurse
+# SpringCurse</p>
+_В репозитории рассмотрены основные вопросы **фреймворка Spring** cпримерами реализации._
 _ _ _ _ 
 - SpringApp1 - простейшее приложение с использованием Spring Core
 1) Добавление зависимотей в pom.xml 
@@ -194,3 +195,7 @@ _ _ _ _
 
 Демонстрация жизненного цикла Бина на примере ....
 ![пример_PostConstruct_PreDestroy_ClassicalMusic](https://user-images.githubusercontent.com/61631173/125793238-8ae25128-7baa-48ce-a3b2-9490f067a85c.JPG)</p>
+_ _ _ _ _ _ 
+
+- **SpringApp_Config_JavaCode** </p>
+В данном примере рассматривается замена конфигураций xml файлов на Java Code</p>
