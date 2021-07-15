@@ -192,3 +192,5 @@ _ _ _ _
 
 ![жизненный цикл Бина_сигнатура_@PostConstruct_@PreDestroy](https://user-images.githubusercontent.com/61631173/125738614-f55834dd-7b2e-4fd7-b649-31be7f266bc3.JPG)
 
+Демонстрация жизненного цикла Бина на примере ....
+![пример_PostConstruct_PreDestroy_ClassicalMusic](https://user-images.githubusercontent.com/61631173/125793238-8ae25128-7baa-48ce-a3b2-9490f067a85c.JPG)</p>
