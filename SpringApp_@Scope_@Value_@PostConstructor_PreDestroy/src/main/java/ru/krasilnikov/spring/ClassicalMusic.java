@@ -4,11 +4,13 @@
 
 package ru.krasilnikov.spring;
 
+import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
 import java.util.*;
 
 @Component
+@Scope("prototype")
 public class ClassicalMusic implements Music {
 
 	private List<String> songs=new ArrayList<>();
