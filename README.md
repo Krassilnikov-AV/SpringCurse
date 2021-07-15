@@ -155,7 +155,10 @@ _ _ _ _
 ![Musik_интерфейс](https://user-images.githubusercontent.com/61631173/125629164-3c497ead-6e64-4505-9c86-ee5e954664c8.JPG)
 
 ![TestSpring](https://user-images.githubusercontent.com/61631173/125629165-43bd4adf-a2b4-4a19-b88b-d34d6c66badf.JPG)
+_ _ _ _ 
 
+- SpringApp_@Scope_@Value_@PostConstructor_PreDestroy</p>
+Здесь рассмотрим внедрение внешних значений при помощи @Value, область видимости Бинов @Scope и жизненный цикл Бина @PostConstruct_@PreDestroy вместо xml кнфигураций.</p>
 ![внедрение внешних значений при помощи xml](https://user-images.githubusercontent.com/61631173/125738037-67d8a8d2-39f0-4a4e-ba8b-cd2712adf066.JPG)
 
 ![внедрение внешних значений при помощи @Value](https://user-images.githubusercontent.com/61631173/125738089-4198c885-3bb3-46cc-a2b3-0496bbc20970.JPG)</p>
