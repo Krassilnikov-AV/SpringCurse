@@ -162,7 +162,7 @@ _ _ _ _
 ![внедрение внешних значений при помощи xml](https://user-images.githubusercontent.com/61631173/125738037-67d8a8d2-39f0-4a4e-ba8b-cd2712adf066.JPG)
 
 ![внедрение внешних значений при помощи @Value](https://user-images.githubusercontent.com/61631173/125738089-4198c885-3bb3-46cc-a2b3-0496bbc20970.JPG)</p>
-Реализация на примере...
+Демонстрация на примере...
 ![пример_Value_musicPlayer properties](https://user-images.githubusercontent.com/61631173/125784801-30824104-83ff-41f1-82d7-2ed61fd996f7.JPG)
 
 ![пример_MusicPlayer](https://user-images.githubusercontent.com/61631173/125784822-af6fdf81-f8e5-4ebf-be2b-de3ba1c9aec5.JPG)
@@ -173,7 +173,14 @@ _ _ _ _
 
 ![Область видимости Бинов_Scope_Singleton vs  Prototype](https://user-images.githubusercontent.com/61631173/125738229-766cbc81-6b60-47ac-8304-9a46d98ab14d.JPG)
 
-![Область видимости Бинов_@Scope](https://user-images.githubusercontent.com/61631173/125738287-a322f463-6871-4ab1-9648-555e58042ca0.JPG)
+![Область видимости Бинов_@Scope](https://user-images.githubusercontent.com/61631173/125738287-a322f463-6871-4ab1-9648-555e58042ca0.JPG)</p>
+
+Демонстрация области видимости на примере:
+![пример_Scope_singleton_ClassicalMusic](https://user-images.githubusercontent.com/61631173/125790937-e63099e5-56ad-4876-91eb-2537ade1d6ec.JPG)</p>
+проверка @Scope "singleton". Проверка объектов в главном классе, значение true, говорит о том что объекты одинаковы, подтвержение того что Scope singleton сработал правильно.
+![пример_Scope_singleton_TestSpring](https://user-images.githubusercontent.com/61631173/125791021-5cb35509-adf0-4e0f-8949-79be92114c85.JPG)
+
+![пример_Scope_prototype_ClassicalMusic](https://user-images.githubusercontent.com/61631173/125791160-9afdc2bf-0d2a-432e-9974-33f36e321047.JPG)
 
 ![жизненный цикл Бина](https://user-images.githubusercontent.com/61631173/125738332-d6a66891-4f9e-4ee5-8e7f-ff3b6420348f.JPG)
 
