@@ -1,0 +1,26 @@
+/*
+ * Copyright (c) 2021 Tander, All Rights Reserved.
+ */
+
+package ru.krasilnikov.spring;
+
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+public class TestSpring {
+	public static void main(String[] args) {
+		AnnotationConfigApplicationContext context =
+			new AnnotationConfigApplicationContext(SpringConfig.class);
+
+		MusicPlayer musicPlayer = context.getBean("musicPlayer", MusicPlayer.class);
+
+		System.out.println(musicPlayer.getName());
+		System.out.println(musicPlayer.getVolume());
+
+		ClassicalMusic classicalMusic1 = context.getBean("classicalMusic", ClassicalMusic.class);
+		ClassicalMusic classicalMusic2 = context.getBean("classicalMusic", ClassicalMusic.class);
+// проверка равенства создаваемых объектов => означает, что Scope Singleton сработал правильно
+		System.out.println(classicalMusic1 == classicalMusic2);
+
+		context.close();
+	}
+}
