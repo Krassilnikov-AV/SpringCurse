@@ -199,3 +199,52 @@ _ _ _ _ _ _
 
 - **SpringApp_Config_JavaCode** </p>
 В данном примере рассматривается замена конфигураций xml файлов на Java Code</p>
+
+![1_список конфигураций](https://user-images.githubusercontent.com/61631173/125938623-0306c307-5a00-4a0c-a078-c40a1d8d8463.JPG)
+
+![2_Annotation Configuration in Java](https://user-images.githubusercontent.com/61631173/125938624-d9acda61-17ba-4bd8-b62b-c5e026725f6f.JPG)
+
+![3_xml тег = соответствующая аннотация](https://user-images.githubusercontent.com/61631173/125938620-5e1d6856-b356-4c53-a56a-c3938871b7ca.JPG)
+
+![3_тег = аннотация](https://user-images.githubusercontent.com/61631173/125938621-0b720d9b-e2a8-48aa-8547-be2bff9a0272.JPG)
+
+![4_использование конфигурационного файла](https://user-images.githubusercontent.com/61631173/125938661-cb043277-324f-4a01-a034-f9fb275f7960.JPG)
+
+![5_ручное внедрение зависимостей без Autowired](https://user-images.githubusercontent.com/61631173/125938662-34406133-6ce6-4c0c-af0d-fb2ffd72707c.JPG)
+
+![6_Подробнее об аннотации Bean](https://user-images.githubusercontent.com/61631173/125938663-cf6f983f-a92b-41bf-a10b-993c8d52f366.JPG)
+
+![7_Внедрение зависимостей из внешнего файла_раньше](https://user-images.githubusercontent.com/61631173/125938664-03528a5b-165f-45f0-816c-142e6a1138b2.JPG)
+
+![7_Внедрение зависимостей из внешнего файла_теперь](https://user-images.githubusercontent.com/61631173/125938659-996aa030-f2cd-49c2-8a00-6398e9ab71fb.JPG)
+
+Выполнение всех перечисленных аннотациий проработаны в коде...
+![пример_1_создание конфигурационного класса эквивалента xml файла конфигураций](https://user-images.githubusercontent.com/61631173/125945663-0296738e-eb5c-4423-a786-9e13469f77a3.JPG)
+После создания Java класса конфигурации, данный xml файл успешно удаляется</p>
+![пример_2_файл xml под удаление после создания Java класса конфигурации](https://user-images.githubusercontent.com/61631173/125945665-cb87c9fa-53d8-483b-ba9b-01fed6da74da.JPG)
+
+![пример_3_удаление загрузочного класса файл xml](https://user-images.githubusercontent.com/61631173/125945658-af0f78ed-c76c-4c2d-a0a3-73c9513e5d2a.JPG)
+
+![пример_4_создание нового экземпляра загрузочного класса вместо экземпляра файла xml с результатом выполнения](https://user-images.githubusercontent.com/61631173/125945659-8674d90c-4916-4bd1-b495-a33c9853ad69.JPG)
+
+![пример_5_заполнение конфигурационного класса SpringConfig аннотациями для классов с запуском для проверки](https://user-images.githubusercontent.com/61631173/125945662-8c7bc63e-5798-496e-8e68-93aa2c7be6dc.JPG)
+
+_ _ _ _ 
+**<h1>Spring MVC</h1>**</p>
+![1_Обзор курса](https://user-images.githubusercontent.com/61631173/125952487-d37e4d20-c6d6-41b8-9a45-baac51363b90.JPG)
+
+![2_Spring MVC_ определение](https://user-images.githubusercontent.com/61631173/125952500-b199e242-99ab-4206-bc5d-918711603e3c.JPG)
+
+![3_Spring MVC - структура](https://user-images.githubusercontent.com/61631173/125952507-a9208dc9-17fe-4a71-8835-799bf96ca3d2.JPG)
+
+![4_состав Spring MVC](https://user-images.githubusercontent.com/61631173/125952510-aef64b64-4c49-48f3-9a6d-6ce554ce719b.JPG)
+
+![5_DispatcherServlet](https://user-images.githubusercontent.com/61631173/125952511-d8e9470e-db11-4316-a30b-77f4367ff8ef.JPG)
+
+![6_Контроллер_описание](https://user-images.githubusercontent.com/61631173/125952513-cdddeafd-66ef-4555-bf8e-65f13fb522e0.JPG)
+
+![7_Представление (View)_описание](https://user-images.githubusercontent.com/61631173/125952514-c3f33337-784e-4ed5-8c67-45097a38692c.JPG)
+
+_ _ _ _
+
+- **SpringMvcFirstApp** - первое Spring MVC приложение</p>
