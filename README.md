@@ -230,4 +230,4 @@ _ _ _ _ _ _
 ![пример_5_заполнение конфигурационного класса SpringConfig аннотациями для классов с запуском для проверки](https://user-images.githubusercontent.com/61631173/125945662-8c7bc63e-5798-496e-8e68-93aa2c7be6dc.JPG)
 
 _ _ _ _ 
-<h1>**Spring MVC**</h1>
+**<h1>Spring MVC</h1>**
