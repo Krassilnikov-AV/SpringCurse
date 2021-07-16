@@ -199,3 +199,21 @@ _ _ _ _ _ _
 
 - **SpringApp_Config_JavaCode** </p>
 В данном примере рассматривается замена конфигураций xml файлов на Java Code</p>
+
+![1_список конфигураций](https://user-images.githubusercontent.com/61631173/125938623-0306c307-5a00-4a0c-a078-c40a1d8d8463.JPG)
+
+![2_Annotation Configuration in Java](https://user-images.githubusercontent.com/61631173/125938624-d9acda61-17ba-4bd8-b62b-c5e026725f6f.JPG)
+
+![3_xml тег = соответствующая аннотация](https://user-images.githubusercontent.com/61631173/125938620-5e1d6856-b356-4c53-a56a-c3938871b7ca.JPG)
+
+![3_тег = аннотация](https://user-images.githubusercontent.com/61631173/125938621-0b720d9b-e2a8-48aa-8547-be2bff9a0272.JPG)
+
+![4_использование конфигурационного файла](https://user-images.githubusercontent.com/61631173/125938661-cb043277-324f-4a01-a034-f9fb275f7960.JPG)
+
+![5_ручное внедрение зависимостей без Autowired](https://user-images.githubusercontent.com/61631173/125938662-34406133-6ce6-4c0c-af0d-fb2ffd72707c.JPG)
+
+![6_Подробнее об аннотации Bean](https://user-images.githubusercontent.com/61631173/125938663-cf6f983f-a92b-41bf-a10b-993c8d52f366.JPG)
+
+![7_Внедрение зависимостей из внешнего файла_раньше](https://user-images.githubusercontent.com/61631173/125938664-03528a5b-165f-45f0-816c-142e6a1138b2.JPG)
+
+![7_Внедрение зависимостей из внешнего файла_теперь](https://user-images.githubusercontent.com/61631173/125938659-996aa030-f2cd-49c2-8a00-6398e9ab71fb.JPG)
