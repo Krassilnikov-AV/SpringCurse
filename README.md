@@ -248,3 +248,4 @@ _ _ _ _
 _ _ _ _
 
 - **SpringMvcFirstApp** - первое Spring MVC приложение</p>
+- SpringMVCAppWebXML - приложение с xml конфигурацией
