@@ -252,5 +252,15 @@ _ _ _ _
 
 - - **SpringMvcFirstApp** - первое Spring MVC приложение</p>
 
+![1_Контроллер](https://user-images.githubusercontent.com/61631173/126054470-d023abf2-e59b-4b61-9fe6-7280a8d3d97d.JPG)
+
+![2_Контроллер and Component](https://user-images.githubusercontent.com/61631173/126054472-96520226-dcd3-4f39-bc9f-11371a59e82f.JPG)
+
+![3_методы контроллера](https://user-images.githubusercontent.com/61631173/126054473-f338b24a-56d6-493a-9770-ed1aac081208.JPG)
+
+![4_Маппинги](https://user-images.githubusercontent.com/61631173/126054474-e749b200-dbf5-4168-abbd-e5c7d30618ae.JPG)
+
+![5_RequestMapping](https://user-images.githubusercontent.com/61631173/126054475-3777dfa4-cf8b-4d62-bafd-bfabcccdb8d2.JPG)
+
 _ _ _ _
 
