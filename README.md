@@ -284,4 +284,23 @@ _ _ _ _
 
 ![9_GET-запрос параметры](https://user-images.githubusercontent.com/61631173/126199436-f3e9888f-6d99-4844-a744-949dddebbe13.JPG)
 
+![10_POST-запрос](https://user-images.githubusercontent.com/61631173/126260024-7bef6209-db62-4817-bb74-5ff935d9bd9a.JPG)
+
+![11_POST-запрос параметры](https://user-images.githubusercontent.com/61631173/126260025-682e9966-5717-4d37-a0f9-eb7e2c783c80.JPG)
+
+![12_GET и POST-сравнение](https://user-images.githubusercontent.com/61631173/126260026-4d70e4fb-026b-4c34-a313-dc44a387e913.JPG)
+
+![13_структура для передачи клиент - сервер](https://user-images.githubusercontent.com/61631173/126260028-371ab402-b90b-4643-a9d7-a587b53b8d4b.JPG)
+
+![14_структура для передачи сервер - клиент](https://user-images.githubusercontent.com/61631173/126260030-1f0e0775-6115-4303-9393-2442d8d4b9c4.JPG)
+
+![15_http response _структура для передачи сервер - клиент](https://user-images.githubusercontent.com/61631173/126260031-ae9dc836-4040-4ca3-bf4e-fe210a434438.JPG)
+
+![16_http response _пример с Googla](https://user-images.githubusercontent.com/61631173/126260032-b26bab72-1cdd-4857-aca2-a83a39e1ad1e.JPG)
+
+![17_http _ статусы ответов](https://user-images.githubusercontent.com/61631173/126260033-c2117f6c-691c-4906-b317-5fa88d7dfbd1.JPG)
+
+![18_http _ типы содержимого](https://user-images.githubusercontent.com/61631173/126260035-0e75fd8c-b1d9-4f98-a272-1ed697c8ddad.JPG)
+
+
 * * * * 
