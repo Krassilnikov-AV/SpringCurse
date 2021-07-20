@@ -266,3 +266,22 @@ _ _ _ _
 
 А теперь старые и добрые _**GET**_ _и _**POST**_, немного теории о них:
 
+![1_HTTP Hyper Text Transfer Protocol](https://user-images.githubusercontent.com/61631173/126199408-f0f1a094-88da-4da5-b143-6f8b62085384.JPG)
+
+![2_клиент-сервер](https://user-images.githubusercontent.com/61631173/126199421-5d1d451f-c66a-49af-82a8-f32150608f98.JPG)
+
+![3_клиент-сервер](https://user-images.githubusercontent.com/61631173/126199423-99bf141f-9bbb-48d2-acf1-9679071c89ed.JPG)
+
+![4_http на примере Google](https://user-images.githubusercontent.com/61631173/126199424-7db34611-4e06-412e-adb8-f25ecc3240d8.JPG)
+
+![5_смотреть код страницы](https://user-images.githubusercontent.com/61631173/126199426-8a25725c-baca-4522-860a-c2afda895b25.JPG)
+
+![6_просмотр данных страницы](https://user-images.githubusercontent.com/61631173/126199429-dd10e8e5-2138-4cc7-839e-2695c4de45e8.JPG)
+
+![7_методы HTTP запроса](https://user-images.githubusercontent.com/61631173/126199430-98fbee34-9a88-4d42-8f58-96fcd088fd7e.JPG)
+
+![8_GET-метод HTTP запроса](https://user-images.githubusercontent.com/61631173/126199432-79870a8e-6eee-4e37-a749-c0e069cbf1bd.JPG)
+
+![9_GET-запрос параметры](https://user-images.githubusercontent.com/61631173/126199436-f3e9888f-6d99-4844-a744-949dddebbe13.JPG)
+
+* * * * 
