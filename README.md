@@ -303,5 +303,6 @@ _ _ _ _
 
 ![18_http _ типы содержимого](https://user-images.githubusercontent.com/61631173/126260035-0e75fd8c-b1d9-4f98-a272-1ed697c8ddad.JPG)
 
-
 * * * * 
+
+_**SpringRequestParameters**_ - рассмотрены GET запросы и как обрабатываются параметры которые передаются в URL запосе в самом адресе на серевер с помощью Spring Framework</p>
