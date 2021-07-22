@@ -46,9 +46,9 @@ public class FirstController {
 			case "addition":
 				result = a + b;
 				break;
-				default:
-					result=0;
-					break;
+			default:
+				result = 0;
+//					break;
 		}
 
 		model.addAttribute("result", result);
