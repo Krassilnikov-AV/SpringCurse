@@ -5,13 +5,21 @@
 package ru.krasilnikov.spring.controllers;
 
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.*;
+
+import javax.servlet.http.HttpServletRequest;
 
 @Controller
+@RequestMapping("/first")
 public class FirstController {
 
 	@GetMapping("/hello")
-	public String helloPage(){
+	public String helloPage(HttpServletRequest request){
+		String name = request.getParameter("name");
+		String surname = request.getParameter("surname");
+
+
+		System.out.println("Hello, "+ name+ " "+surname);
 		return "first/hello";
 	}
 
