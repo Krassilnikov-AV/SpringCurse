@@ -8,6 +8,7 @@ import org.springframework.stereotype.Component;
 import ru.krasilnikov.spring.models.Person;
 
 import java.util.*;
+
 @Component
 public class PersonDAO {
 	// в качестве БД пока будем использовать список ArrayList
@@ -23,10 +24,12 @@ public class PersonDAO {
 		people.add(new Person(++PEOPLE_COUNT, "Padington"));
 		people.add(new Person(++PEOPLE_COUNT, "Sanya"));
 	}
-public List<Person> index() {
+
+	public List<Person> index() {
 		return people;
-}
-public Person show(int id) {
+	}
+
+	public Person show(int id) {
 		return people.stream().filter(person -> person.getId() == id).findAny().orElse(null);
-}
+	}
 }

@@ -17,14 +17,14 @@ public class PeopleController {
 	private final PersonDAO personDAO;
 
 	public PeopleController(PersonDAO personDAO) {
-		this.personDAO=personDAO;
+		this.personDAO = personDAO;
 	}
 
 	@GetMapping()
 	public String index(Model model) {
 		// получим всех людей из DAO и передадим на отображение в представлении
 		model.addAttribute("people", personDAO.index());
-		return  "people/index";
+		return "people/index";
 	}
 
 	@GetMapping("/{id}")
@@ -34,5 +34,4 @@ public class PeopleController {
 
 		return "people/show";
 	}
-
 }
