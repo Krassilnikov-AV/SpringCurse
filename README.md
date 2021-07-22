@@ -305,4 +305,24 @@ _ _ _ _
 
 * * * * 
 
-_**SpringRequestParameters**_ - рассмотрены GET запросы и как обрабатываются параметры которые передаются в URL запосе в самом адресе на серевер с помощью Spring Framework</p>
+_**SpringRequestParameters**_ - рассмотрены GET запросы и как обрабатываются параметры которые передаются в URL запросе в самом адресе на серевер с помощью Spring Framework</p>
+
+![1_запросы к серверу](https://user-images.githubusercontent.com/61631173/126585096-aa3cc32a-6849-4eb0-9d46-fdbacfb4b076.JPG)
+
+![2_клиент-сервер](https://user-images.githubusercontent.com/61631173/126585097-053a3af1-9043-4639-9291-ed1cf12539a9.JPG)
+
+![3_параметры GET запроса](https://user-images.githubusercontent.com/61631173/126585099-8f2ccf5c-bcb0-435b-9ec6-f621a32ce4a1.JPG)
+
+![4_способы получения GET запросов](https://user-images.githubusercontent.com/61631173/126585100-48189d93-4ce7-4727-9e8b-5c8938e04048.JPG)
+
+![5_пример_добавление параметров в Get запрос через_HttpServletRequest](https://user-images.githubusercontent.com/61631173/126585101-bc09b8f6-9a43-4c85-9726-784d71c0adcc.JPG)
+
+![6_пример_внесение в браузере параметров Get запроса через_HttpServletRequest](https://user-images.githubusercontent.com/61631173/126585102-d1387879-8e56-46e8-86f4-a3e71f1638fc.JPG)
+
+![7_пример_вывод  в консоли параметров Get запроса через_HttpServletRequest](https://user-images.githubusercontent.com/61631173/126585103-bd649b9a-beb0-4b5f-9cd4-cb9e28d24df9.JPG)
+
+![8_пример_добавление параметров в Get запрос через_аннотацию RequestParameter](https://user-images.githubusercontent.com/61631173/126587912-24d74b33-1806-45ef-baa1-f1bad25d7c20.JPG)
+
+![9_пример_внесение в браузере параметров Get запроса через_@RequestParameter](https://user-images.githubusercontent.com/61631173/126587915-7bf6ed55-46ce-4d9f-9369-8a93eae9c628.JPG)
+
+![10_пример_вывод  в консоли параметров Get запроса через_@RequestParameter](https://user-images.githubusercontent.com/61631173/126587917-2df338a4-fcf1-4f01-a1ed-d7132325d320.JPG)
