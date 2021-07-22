@@ -367,5 +367,5 @@ _**SpringIntroToModel**_ - передача данных от контролле
 Вывод данных на странице браузера:
 ![8_пример_вывод на странице браузера](https://user-images.githubusercontent.com/61631173/126620101-d3b67b49-c726-4980-a1ba-62e3004cdd59.JPG)</p>
 _Самостоятельно задание_
-![9_самостоятельно задание_](https://user-images.githubusercontent.com/61631173/126621032-5c90f896-1e9a-4bfd-afe1-e8ba0868cf32.JPG)</p>
+![9_**самостоятельно задание**_](https://user-images.githubusercontent.com/61631173/126621032-5c90f896-1e9a-4bfd-afe1-e8ba0868cf32.JPG)</p>
 
