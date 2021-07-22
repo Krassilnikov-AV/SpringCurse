@@ -359,3 +359,8 @@ _**SpringIntroToModel**_ - передача данных от контролле
 ![4_часть Модели рассмотренная в этом приложении](https://user-images.githubusercontent.com/61631173/126619729-c297e99b-59d9-47ae-b020-8f203badc1b8.JPG)</p>
 ![5_получение доступа к модели в контроллере](https://user-images.githubusercontent.com/61631173/126619730-5c159d94-e3b8-4c95-a99b-52266c4e68ca.JPG)</p>
 
+В нашем ранее рассмотреном примере продемонстрируем работу передачи данных...</p>
+![8_пример_вывод на странице браузера](https://user-images.githubusercontent.com/61631173/126620101-d3b67b49-c726-4980-a1ba-62e3004cdd59.JPG)</p>
+![6_добавление модели в контроллере](https://user-images.githubusercontent.com/61631173/126620104-23c951bb-2365-4988-8612-be879930f6dc.JPG)</p>
+![7_пример_обращение в представлении к контроллеру по ключу модели](https://user-images.githubusercontent.com/61631173/126620105-d73b5a26-9f3a-4de4-9eb3-d621c312ad35.JPG)</p>
+
