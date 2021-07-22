@@ -321,3 +321,6 @@ _**SpringRequestParameters**_ - рассмотрены GET запросы и к�
 
 ![7_пример_вывод  в консоли параметров Get запроса через_HttpServletRequest](https://user-images.githubusercontent.com/61631173/126585103-bd649b9a-beb0-4b5f-9cd4-cb9e28d24df9.JPG)
 
+![8_пример_добавление параметров в Get запрос через_аннотацию RequestParameter](https://user-images.githubusercontent.com/61631173/126587912-24d74b33-1806-45ef-baa1-f1bad25d7c20.JPG)
+![9_пример_внесение в браузере параметров Get запроса через_@RequestParameter](https://user-images.githubusercontent.com/61631173/126587915-7bf6ed55-46ce-4d9f-9369-8a93eae9c628.JPG)
+![10_пример_вывод  в консоли параметров Get запроса через_@RequestParameter](https://user-images.githubusercontent.com/61631173/126587917-2df338a4-fcf1-4f01-a1ed-d7132325d320.JPG)
