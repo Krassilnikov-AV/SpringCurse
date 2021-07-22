@@ -340,5 +340,9 @@ _**SpringRequestParameters**_ - рассмотрены GET запросы и к�
 
 ![13_пример_вывод в консоли без параметров_@RequestParameter](https://user-images.githubusercontent.com/61631173/126610551-0b29ceff-4854-4c13-8db6-6511235ada70.JPG)
 
+Вывод в консоли значений null null...
+
+![14_пример_вывод в консоли без параметров null null_@RequestParameter](https://user-images.githubusercontent.com/61631173/126610948-c2b852f7-8d5d-4407-9112-1b07807a28ca.JPG)
+
 _ _ _ _
 
