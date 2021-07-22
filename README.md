@@ -251,7 +251,7 @@ _ _ _ _
 - **SpringMVCAppWebXML** - приложение с xml конфигурацией
 _ _ _ _
 
-- - **SpringMvcFirstApp** - первое Spring MVC приложение</p>
+- - **SpringMVCAppJavaConfig** - первое Spring MVC приложение</p>
 
 ![1_Контроллер](https://user-images.githubusercontent.com/61631173/126054470-d023abf2-e59b-4b61-9fe6-7280a8d3d97d.JPG)
 
