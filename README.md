@@ -1,6 +1,6 @@
 # SpringCurse</p>
 _В репозитории вкратце рассмотрены основные вопросы **фреймворка Spring** c примерами их реализации.</p>
-курс представлен на Youtube канале https://www.youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ  Наилем Алишевым_
+курс представлен на Ютуб канале https://www.youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ  Наилем Алишевым_
 _ _ _ _ 
 - SpringApp1 - простейшее приложение с использованием Spring Core
 1) Добавление зависимотей в pom.xml 
