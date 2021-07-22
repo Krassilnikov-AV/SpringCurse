@@ -16,9 +16,13 @@ public class FirstController {
 //		String name = request.getParameter("name");
 //		String surname = request.getParameter("surname");
 
-	public String helloPage(@RequestParam("name") String name,
-							@RequestParam("surname") String surname) {
+	// в данной конструкции, вывод ошибки, если не указаны параметры запроса
+//	public String helloPage(@RequestParam("name") String name,
+//							@RequestParam("surname") String surname) {
 
+		// в данной конструкции, устранение вывода ошибки, если не указаны параметры запроса
+		public String helloPage(@RequestParam(value = "name", required = false) String name,
+			@RequestParam(value = "surname", required = false) String surname) {
 		System.out.println("Hello, " + name + " " + surname);
 		return "first/hello";
 	}
