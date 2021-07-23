@@ -427,5 +427,24 @@ _ _ _ _
 ![8_@ModelAttribute_когда аннотируют](https://user-images.githubusercontent.com/61631173/126778315-83cd5502-7449-4927-9183-15b642c0b7fc.JPG)
 ![9_@ModelAttribute_когда аннотируют2](https://user-images.githubusercontent.com/61631173/126778318-048d1d57-1708-444b-993b-b6e292123fde.JPG)
 ![10_@ModelAttribute_когда аннотируют аргумент метода](https://user-images.githubusercontent.com/61631173/126778319-e34fe723-6997-49ed-8a08-c34ab2f9532d.JPG)
-![11_@ModelAttribute_когда аннотируют аргумент метода2](https://user-images.githubusercontent.com/61631173/126778321-aee3acfe-104c-41ca-b8af-369db4e9163c.JPG)
+![11_@ModelAttribute_когда аннотируют аргумент метода2](https://user-images.githubusercontent.com/61631173/126778321-aee3acfe-104c-41ca-b8af-369db4e9163c.JPG)</p>
+_ПРАКТИКА_</p>
+_добавление в контроллер методов с @GetMapping и @PostMapping:_</p>
+![12_пример_добавление в контроллер методов с @GetMapping и @PostMapping](https://user-images.githubusercontent.com/61631173/126782675-4d065389-2d06-47f6-a74b-1c5e73e5025b.JPG)</p>
+_Создание конструктора класса Person, для добавление человека:_</p>
+![13_пример_создание конструктора класса Person](https://user-images.githubusercontent.com/61631173/126783209-7ee2be24-c87f-4c5e-aa17-55a8676ce5cf.JPG)</p>
+_добавление метода creat() в классе PersonDAO работы с БД:_</p>
+![14_пример_добавление метода creat() в классе работы с БД](https://user-images.githubusercontent.com/61631173/126783215-820528c0-450f-4708-a84d-24a4d52c420f.JPG)</p>
+_создание новой html страницы для добавления человека в БД:_</p>
+![15_пример_создание новой html страницы для добавления человека в БД](https://user-images.githubusercontent.com/61631173/126783217-ec4fd098-7c09-4675-9180-07779bd95f3a.JPG)</p>
+_Проверка в браузере страницы добавления человека:_</p>
+![17_пример_проверка в браузере страницы для добавления человека в БД](https://user-images.githubusercontent.com/61631173/126783220-76655962-49e8-4daf-bd44-391e244a7170.JPG)</p>
+_Добавление человека в БД с выодом на странице браузера:_</p>
+![16_пример_добавление человека в БД](https://user-images.githubusercontent.com/61631173/126783218-27249197-ff4c-451b-8fef-d7f3503da435.JPG)</p>
+_Страница информации имени человека и его id:_</p>
+![18_пример_страница информации человека в БД](https://user-images.githubusercontent.com/61631173/126783900-0a0e999d-967a-4eda-b513-290df1b7de6f.JPG)</p>
+_Применение аннотации @@ModelAttribute вместо вызова класса Model в параметре:_</p>
+![19_пример_применение аннотации @@ModelAttribute вместо вызова класса Model в параметре](https://user-images.githubusercontent.com/61631173/126783903-7666e1e3-000d-47f5-ad88-2ce649ef6b9c.JPG)</p>
+
+
 
