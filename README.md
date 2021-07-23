@@ -417,4 +417,15 @@ _ _ _ _
 ![17_приложение_страница браузера_вывод человека по id_show](https://user-images.githubusercontent.com/61631173/126774370-d4312bb6-4693-4452-95cd-775cecc8e362.JPG)
 _ _ _ _
 - _**Spring_CRUD_App2**_ - в данном приложении рассмотрена аннотация @ModelAttribute и HTML Формы (Thymeleaf).</p>
+![1_@ModelAttribute](https://user-images.githubusercontent.com/61631173/126778300-6885e46a-12c4-497d-a204-b3e9a6015729.JPG)
+![2_реализация прошлого урока](https://user-images.githubusercontent.com/61631173/126778307-8af25e3e-e0d6-48ab-a566-384314361ec0.JPG)
+![3_реализация этого урока](https://user-images.githubusercontent.com/61631173/126778308-31de7d48-8b4f-4acd-be7f-b9db256c0a93.JPG)
+![4_HTML формы](https://user-images.githubusercontent.com/61631173/126778310-5b4aabfa-dcd7-451a-a33c-c194f0fa9811.JPG)
+![5_HTML формы в Thymeleaf](https://user-images.githubusercontent.com/61631173/126778311-1d3c5c5a-c3a4-49c2-8ecc-9cca79a53e41.JPG)
+![6_на контроллере](https://user-images.githubusercontent.com/61631173/126778312-1c3cae85-7d02-47bb-b70d-227d66613e31.JPG)
+![7_@ModelAttribute](https://user-images.githubusercontent.com/61631173/126778313-e12f51ef-0b0d-4fe3-bc83-300f8c2006db.JPG)
+![8_@ModelAttribute_когда аннотируют](https://user-images.githubusercontent.com/61631173/126778315-83cd5502-7449-4927-9183-15b642c0b7fc.JPG)
+![9_@ModelAttribute_когда аннотируют2](https://user-images.githubusercontent.com/61631173/126778318-048d1d57-1708-444b-993b-b6e292123fde.JPG)
+![10_@ModelAttribute_когда аннотируют аргумент метода](https://user-images.githubusercontent.com/61631173/126778319-e34fe723-6997-49ed-8a08-c34ab2f9532d.JPG)
+![11_@ModelAttribute_когда аннотируют аргумент метода2](https://user-images.githubusercontent.com/61631173/126778321-aee3acfe-104c-41ca-b8af-369db4e9163c.JPG)
 
