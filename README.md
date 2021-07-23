@@ -445,6 +445,12 @@ _Страница информации имени человека и его id:
 ![18_пример_страница информации человека в БД](https://user-images.githubusercontent.com/61631173/126783900-0a0e999d-967a-4eda-b513-290df1b7de6f.JPG)</p>
 _Применение аннотации @@ModelAttribute вместо вызова класса Model в параметре:_</p>
 ![19_пример_применение аннотации @@ModelAttribute вместо вызова класса Model в параметре](https://user-images.githubusercontent.com/61631173/126783903-7666e1e3-000d-47f5-ad88-2ce649ef6b9c.JPG)</p>
+_ _ _ _
 
-
-
+- **_Spring_CRUD_App3_** - </p>
+![1_CRUD_методы Update_Delete](https://user-images.githubusercontent.com/61631173/126788200-334d9563-f508-4776-aa81-f7f85925ef81.JPG)</p>
+![2_CRUD_методы Update_Delete на этом уроке](https://user-images.githubusercontent.com/61631173/126788202-8ce0c25c-d75c-424f-ae9e-dd84ffb2e9a3.JPG)</p>
+![3_CRUD_план урока](https://user-images.githubusercontent.com/61631173/126788205-a6bd8334-2f86-42bd-8bc6-50677078ed71.JPG)</p>
+![4_деталь реализации PATCH_ DELETE и др  запросов](https://user-images.githubusercontent.com/61631173/126788207-84ad1d81-c486-48ea-bbf9-96211cae4229.JPG)</p>
+![5_решение проблемы](https://user-images.githubusercontent.com/61631173/126788209-6985ac03-b69b-46d1-baf6-37524154aebc.JPG)</p>
+![6_решение проблемы с поомщью фильтра](https://user-images.githubusercontent.com/61631173/126788211-79b70238-b610-4856-81ba-6a838cf69413.JPG)</p>
