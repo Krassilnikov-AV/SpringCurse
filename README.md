@@ -479,7 +479,9 @@ _Добавление метода для удаления персоны:_</p>
 _метод delete в контроллере _</p>
 ![13_пример_добавление метода delete в контроллере](https://user-images.githubusercontent.com/61631173/126823429-405deabd-8530-4ea3-9587-289cad7c5adc.JPG)</p>
 _метод delete в классе PersonDAO_</p>
+
 ![14_пример_добавление метода delete в классе PersonDAO](https://user-images.githubusercontent.com/61631173/126823430-85da3e90-02cb-48d2-bf588aa82d606d47.JPG)</p>
+
 _форма delete в странице html Show_</p>
 ![15_пример_добавление формы delete в странице html Show](https://user-images.githubusercontent.com/61631173/126823431-92bfe486-ea2e-40bd-8002-c6448b531632.JPG)</p>
 ![16_пример_добавление ccылки на создание персоны](https://user-images.githubusercontent.com/61631173/126823432-7137c953-5a9f-4e17-8370-1d0f314e808a.JPG)</p>
