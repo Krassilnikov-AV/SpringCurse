@@ -4,6 +4,7 @@
 
 package ru.krasilnikov.spring.controllers;
 
+import com.sun.org.glassfish.gmbal.ParameterNames;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
@@ -36,10 +37,6 @@ public class PeopleController {
 	}
 
 	@GetMapping("/new")
-//	public String newPerson(Model model) {
-//		model.addAttribute("person", new Person());
-
-	/** будет работать так же, как и в предыдущем случае    **/
 	public String newPerson(@ModelAttribute("person") Person person) {
 
 		return "people/new";
@@ -48,6 +45,25 @@ public class PeopleController {
 	@PostMapping()
 	public String create(@ModelAttribute("person") Person person) {
 		personDAO.save(person);
+		return "redirect:/people";
+	}
+
+
+	@GetMapping("/{id}/edit")
+	public String edit(Model model, @PathVariable("id") int id) {
+		model.addAttribute("person", personDAO.show(id));
+		return "people/edit";
+	}
+
+	@PatchMapping("/{id}")
+	public String update(@ModelAttribute("person") Person person, @PathVariable("id") int id) {
+		personDAO.update(id, person);
+		return "redirect:/people";
+	}
+
+	@DeleteMapping("/{id}")
+	public String delete(@PathVariable("id") int id) {
+		personDAO.delete(id);
 		return "redirect:/people";
 	}
 
