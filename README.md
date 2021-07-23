@@ -415,5 +415,6 @@ _ _ _ _
 ![16_приложение_страница браузера_вывод списка людей_index](https://user-images.githubusercontent.com/61631173/126774367-0fcfd752-c5d2-4b5c-b88c-2f0596a7db6e.JPG)
 страница браузера_вывод человека по id:
 ![17_приложение_страница браузера_вывод человека по id_show](https://user-images.githubusercontent.com/61631173/126774370-d4312bb6-4693-4452-95cd-775cecc8e362.JPG)
-
 _ _ _ _
+- _**Spring_CRUD_App2**_ - в данном приложении рассмотрена аннотация @ModelAttribute и HTML Формы (Thymeleaf).</p>
+
