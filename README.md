@@ -405,12 +405,14 @@ _ _ _ _
 ![11_приложение_класс-контроллер PeopleController](https://user-images.githubusercontent.com/61631173/126775064-6b7aa7c8-04e2-4908-8c3a-3da3505b5888.JPG)
 Класс сущности Person:
 ![12_приложение_класс сущности Person](https://user-images.githubusercontent.com/61631173/126774374-e113c6b0-a36b-4969-896e-c5d9d12c3a66.JPG)
-
+ Класс, работающий с БД - PersonDAO:
 ![13_приложение_класс для работы с БД](https://user-images.githubusercontent.com/61631173/126774375-bc8d6a75-03ec-47a0-91b5-080b62beca53.JPG)
+Представление в виде html страницы, на которой выводится список людей:
 ![14_приложение_html страница представления_index](https://user-images.githubusercontent.com/61631173/126774377-37fe0d1a-fc56-4d38-91aa-4226a44ea082.JPG)
+Представление в виде html страницы, на которой выводится имя и id человека:
 ![15_приложение_html страница представления_show](https://user-images.githubusercontent.com/61631173/126774379-6bc0aa75-2eb8-4d6d-a5d3-113ccd332a82.JPG)
-
-
+страница браузера_вывод списка людей:
 ![16_приложение_страница браузера_вывод списка людей_index](https://user-images.githubusercontent.com/61631173/126774367-0fcfd752-c5d2-4b5c-b88c-2f0596a7db6e.JPG)
+страница браузера_вывод человека по id:
 ![17_приложение_страница браузера_вывод человека по id_show](https://user-images.githubusercontent.com/61631173/126774370-d4312bb6-4693-4452-95cd-775cecc8e362.JPG)
 
