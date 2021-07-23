@@ -428,7 +428,18 @@ _ _ _ _
 ![9_@ModelAttribute_когда аннотируют2](https://user-images.githubusercontent.com/61631173/126778318-048d1d57-1708-444b-993b-b6e292123fde.JPG)
 ![10_@ModelAttribute_когда аннотируют аргумент метода](https://user-images.githubusercontent.com/61631173/126778319-e34fe723-6997-49ed-8a08-c34ab2f9532d.JPG)
 ![11_@ModelAttribute_когда аннотируют аргумент метода2](https://user-images.githubusercontent.com/61631173/126778321-aee3acfe-104c-41ca-b8af-369db4e9163c.JPG)</p>
-_ПРАКТИКА_
+_ПРАКТИКА_</p>
 _добавление в контроллер методов с @GetMapping и @PostMapping:_
-![12_пример_добавление в контроллер методов с @GetMapping и @PostMapping](https://user-images.githubusercontent.com/61631173/126782675-4d065389-2d06-47f6-a74b-1c5e73e5025b.JPG)
+![12_пример_добавление в контроллер методов с @GetMapping и @PostMapping](https://user-images.githubusercontent.com/61631173/126782675-4d065389-2d06-47f6-a74b-1c5e73e5025b.JPG)</p>
+_Создание конструктора класса Person, для добавление человека:_
+![13_пример_создание конструктора класса Person](https://user-images.githubusercontent.com/61631173/126783209-7ee2be24-c87f-4c5e-aa17-55a8676ce5cf.JPG)</p>
+_добавление метода creat() в классе PersonDAO работы с БД:_
+![14_пример_добавление метода creat() в классе работы с БД](https://user-images.githubusercontent.com/61631173/126783215-820528c0-450f-4708-a84d-24a4d52c420f.JPG)</p>
+
+![15_пример_создание новой html страницы для добавления человека в БД](https://user-images.githubusercontent.com/61631173/126783217-ec4fd098-7c09-4675-9180-07779bd95f3a.JPG)</p>
+![16_пример_добавление человека в БД](https://user-images.githubusercontent.com/61631173/126783218-27249197-ff4c-451b-8fef-d7f3503da435.JPG)</p>
+![17_пример_проверка в браузере страницы для добавления человека в БД](https://user-images.githubusercontent.com/61631173/126783220-76655962-49e8-4daf-bd44-391e244a7170.JPG)</p>
+
+</p>
+</p>
 
