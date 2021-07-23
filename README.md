@@ -400,13 +400,17 @@ _ _ _ _
 ![9_описание приложения, работающего с БД](https://user-images.githubusercontent.com/61631173/126773467-4a043f3c-2a6c-4de5-bc0e-5ac26b67f0b5.JPG)
 
 ![10_описание приложения, работающего с БД (временно ArrayList)](https://user-images.githubusercontent.com/61631173/126773468-9e900220-b141-4339-ada5-0d5a04fe0ece.JPG)</p>
-После теории переход к написанию приложения, сделал скриншоты с работающего примера, пока без подключения базы данных.</p>
-![16_приложение_страница браузера_вывод списка людей_index](https://user-images.githubusercontent.com/61631173/126774367-0fcfd752-c5d2-4b5c-b88c-2f0596a7db6e.JPG)
-![17_приложение_страница браузера_вывод человека по id_show](https://user-images.githubusercontent.com/61631173/126774370-d4312bb6-4693-4452-95cd-775cecc8e362.JPG)
-![11_приложение_класс-контроллер PersonDAO](https://user-images.githubusercontent.com/61631173/126774371-41d848e1-395c-4826-b890-d4bb1fbdf796.JPG)
+После теории переход к написанию приложения, сделал скриншоты с работающего примера приложения, пока без подключения базы данных.</p>
+Класс контроллер PeopleController:
+![11_приложение_класс-контроллер PeopleController](https://user-images.githubusercontent.com/61631173/126775064-6b7aa7c8-04e2-4908-8c3a-3da3505b5888.JPG)
+Класс сущности Person:
 ![12_приложение_класс сущности Person](https://user-images.githubusercontent.com/61631173/126774374-e113c6b0-a36b-4969-896e-c5d9d12c3a66.JPG)
-![13_приложение_класс для БД](https://user-images.githubusercontent.com/61631173/126774375-bc8d6a75-03ec-47a0-91b5-080b62beca53.JPG)
+
+![13_приложение_класс для работы с БД](https://user-images.githubusercontent.com/61631173/126774375-bc8d6a75-03ec-47a0-91b5-080b62beca53.JPG)
 ![14_приложение_html страница представления_index](https://user-images.githubusercontent.com/61631173/126774377-37fe0d1a-fc56-4d38-91aa-4226a44ea082.JPG)
 ![15_приложение_html страница представления_show](https://user-images.githubusercontent.com/61631173/126774379-6bc0aa75-2eb8-4d6d-a5d3-113ccd332a82.JPG)
 
+
+![16_приложение_страница браузера_вывод списка людей_index](https://user-images.githubusercontent.com/61631173/126774367-0fcfd752-c5d2-4b5c-b88c-2f0596a7db6e.JPG)
+![17_приложение_страница браузера_вывод человека по id_show](https://user-images.githubusercontent.com/61631173/126774370-d4312bb6-4693-4452-95cd-775cecc8e362.JPG)
 
