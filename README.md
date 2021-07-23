@@ -427,5 +427,7 @@ _ _ _ _
 ![8_@ModelAttribute_когда аннотируют](https://user-images.githubusercontent.com/61631173/126778315-83cd5502-7449-4927-9183-15b642c0b7fc.JPG)
 ![9_@ModelAttribute_когда аннотируют2](https://user-images.githubusercontent.com/61631173/126778318-048d1d57-1708-444b-993b-b6e292123fde.JPG)
 ![10_@ModelAttribute_когда аннотируют аргумент метода](https://user-images.githubusercontent.com/61631173/126778319-e34fe723-6997-49ed-8a08-c34ab2f9532d.JPG)
-![11_@ModelAttribute_когда аннотируют аргумент метода2](https://user-images.githubusercontent.com/61631173/126778321-aee3acfe-104c-41ca-b8af-369db4e9163c.JPG)
+![11_@ModelAttribute_когда аннотируют аргумент метода2](https://user-images.githubusercontent.com/61631173/126778321-aee3acfe-104c-41ca-b8af-369db4e9163c.JPG)</p>
+_ПРАКТИКА_
+![12_пример_добавление в контроллер методов с @GetMapping и @PostMapping](https://user-images.githubusercontent.com/61631173/126782675-4d065389-2d06-47f6-a74b-1c5e73e5025b.JPG)
 
