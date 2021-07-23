@@ -8,6 +8,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 import ru.krasilnikov.spring.dao.PersonDAO;
+import ru.krasilnikov.spring.models.Person;
 
 @Controller
 @RequestMapping("/people")
@@ -32,5 +33,21 @@ public class PeopleController {
 		model.addAttribute("person", personDAO.show(id));
 
 		return "people/show";
+	}
+
+	@GetMapping("/new")
+//	public String newPerson(Model model) {
+//		model.addAttribute("person", new Person());
+
+	/** будет работать так же, как и в предыдущем случае    **/
+	public String newPerson(@ModelAttribute("person") Person person) {
+
+		return "people/new";
+	}
+
+	@PostMapping()
+	public String create(@ModelAttribute("person") Person person) {
+		personDAO.save(person);
+		return "redirect:/people";
 	}
 }

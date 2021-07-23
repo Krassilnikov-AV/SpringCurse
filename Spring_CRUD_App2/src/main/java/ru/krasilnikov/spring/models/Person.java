@@ -14,6 +14,10 @@ public class Person {
 		this.name = name;
 	}
 
+	public Person() {
+
+	}
+
 	public int getId() {
 		return id;
 	}
