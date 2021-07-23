@@ -376,3 +376,29 @@ _Решение_</p>
 задание параметров и вывод результатов:
 ![12_самостоятельно задание_задание параметров и результат вывода в браузере](https://user-images.githubusercontent.com/61631173/126635327-ca8d10ba-c2d9-4515-b347-ebf1e674f6bf.JPG)</p>
 
+_ _ _ _ 
+
+- _**Spring_CRUD_App**_ - в данном приложении рассматривается начало реализации CRUD приложения для сущности Person</p>
+Немного теории и переход к написанию приложения.</p>
+
+![1_CRUD](https://user-images.githubusercontent.com/61631173/126773471-0814fe28-a2e6-4219-9c5b-5ca36aba05bd.JPG)
+
+![2_CRUD - определение](https://user-images.githubusercontent.com/61631173/126773473-a6238caa-1bef-456d-895e-a71cfdf5be40.JPG)
+
+![3_HTTP -CRUD](https://user-images.githubusercontent.com/61631173/126773475-08af0ab7-1e6b-4f8d-bb6b-83fae84f94c8.JPG)
+
+![4_стандарт CRUD's](https://user-images.githubusercontent.com/61631173/126773476-006ddd73-f2ee-4700-8bb7-7871a02fd168.JPG)
+
+![5_почему именно такие методы_](https://user-images.githubusercontent.com/61631173/126773477-44ae09f7-fa06-4a09-967e-611e2160312e.JPG)
+
+![6_REST   CRUD_](https://user-images.githubusercontent.com/61631173/126773479-dc9ce719-b5f5-4019-8176-225ff762ff4b.JPG)
+
+![7_описание урока](https://user-images.githubusercontent.com/61631173/126773462-d784c966-adb3-4efe-8226-39a627cd61dc.JPG)
+
+![8_связь с БД](https://user-images.githubusercontent.com/61631173/126773464-865b1d03-2ad3-4917-85af-e288379b0956.JPG)
+
+![9_описание приложения, работающего с БД](https://user-images.githubusercontent.com/61631173/126773467-4a043f3c-2a6c-4de5-bc0e-5ac26b67f0b5.JPG)
+
+![10_описание приложения, работающего с БД (временно ArrayList)](https://user-images.githubusercontent.com/61631173/126773468-9e900220-b141-4339-ada5-0d5a04fe0ece.JPG)
+
+
