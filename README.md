@@ -476,10 +476,10 @@ _... страница списка людей с изменённым имене
 ![12_пример_страница списка людей с изменённым именем](https://user-images.githubusercontent.com/61631173/126794505-0c06b87d-dca9-47c4-b018-2520a8c489cf.JPG)</p>
 
 _Добавление метода для удаления персоны:_</p>
-_метод delete в контроллере _</p>
+_метод delete в контроллере_</p>
 ![13_пример_добавление метода delete в контроллере](https://user-images.githubusercontent.com/61631173/126823429-405deabd-8530-4ea3-9587-289cad7c5adc.JPG)</p>
 _метод delete в классе PersonDAO_</p>
-
+</p>
 ![14_пример_добавление метода delete в классе PersonDAO](https://user-images.githubusercontent.com/61631173/126823430-85da3e90-02cb-48d2-bf588aa82d606d47.JPG)</p>
 
 _форма delete в странице html Show_</p>
