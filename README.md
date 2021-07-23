@@ -475,3 +475,15 @@ _проверяем на странице изменения данных вып
 _... страница списка людей с изменённым именем_
 ![12_пример_страница списка людей с изменённым именем](https://user-images.githubusercontent.com/61631173/126794505-0c06b87d-dca9-47c4-b018-2520a8c489cf.JPG)</p>
 
+_Добавление метода для удаления персоны:_</p>
+_метод delete в контроллере_</p>
+![13_пример_добавление метода delete в контроллере](https://user-images.githubusercontent.com/61631173/126823429-405deabd-8530-4ea3-9587-289cad7c5adc.JPG)</p>
+_метод delete в классе PersonDAO_</p>
+![14_пример_добавление метода delete в классе PersonDAO](https://user-images.githubusercontent.com/61631173/126824569-17acd9fa-85de-4f31-a963-0ed100004438.JPG)
+
+_форма delete в странице html Show_</p>
+![15_пример_добавление формы delete в странице html Show](https://user-images.githubusercontent.com/61631173/126823431-92bfe486-ea2e-40bd-8002-c6448b531632.JPG)</p>
+![16_пример_добавление ccылки на создание персоны](https://user-images.githubusercontent.com/61631173/126823432-7137c953-5a9f-4e17-8370-1d0f314e808a.JPG)</p>
+![17_пример_страница браузера списка людей](https://user-images.githubusercontent.com/61631173/126823434-85c94b37-f912-4ddf-a122-385c98008150.JPG)</p>
+![18_пример_страница браузера для просмотра, редактирования и удаления персоны](https://user-images.githubusercontent.com/61631173/126823437-0f89d85a-581c-4b85-ba53-b06a6ceaee46.JPG)</p>
+![19_пример_страница браузера списка людей после удаления из списка персоны Sanya](https://user-images.githubusercontent.com/61631173/126823439-374c3f26-dc2b-48b4-923a-da220b18a4af.JPG)</p>
