@@ -376,3 +376,56 @@ _Решение_</p>
 задание параметров и вывод результатов:
 ![12_самостоятельно задание_задание параметров и результат вывода в браузере](https://user-images.githubusercontent.com/61631173/126635327-ca8d10ba-c2d9-4515-b347-ebf1e674f6bf.JPG)</p>
 
+_ _ _ _ 
+
+- _**Spring_CRUD_App**_ - в данном приложении рассматривается начало реализации CRUD приложения для сущности Person</p>
+Немного теории и переход к написанию приложения.</p>
+
+![1_CRUD](https://user-images.githubusercontent.com/61631173/126773471-0814fe28-a2e6-4219-9c5b-5ca36aba05bd.JPG)
+
+![2_CRUD - определение](https://user-images.githubusercontent.com/61631173/126773473-a6238caa-1bef-456d-895e-a71cfdf5be40.JPG)
+
+![3_HTTP -CRUD](https://user-images.githubusercontent.com/61631173/126773475-08af0ab7-1e6b-4f8d-bb6b-83fae84f94c8.JPG)
+
+![4_стандарт CRUD's](https://user-images.githubusercontent.com/61631173/126773476-006ddd73-f2ee-4700-8bb7-7871a02fd168.JPG)
+
+![5_почему именно такие методы_](https://user-images.githubusercontent.com/61631173/126773477-44ae09f7-fa06-4a09-967e-611e2160312e.JPG)
+
+![6_REST   CRUD_](https://user-images.githubusercontent.com/61631173/126773479-dc9ce719-b5f5-4019-8176-225ff762ff4b.JPG)
+
+![7_описание урока](https://user-images.githubusercontent.com/61631173/126773462-d784c966-adb3-4efe-8226-39a627cd61dc.JPG)
+
+![8_связь с БД](https://user-images.githubusercontent.com/61631173/126773464-865b1d03-2ad3-4917-85af-e288379b0956.JPG)
+
+![9_описание приложения, работающего с БД](https://user-images.githubusercontent.com/61631173/126773467-4a043f3c-2a6c-4de5-bc0e-5ac26b67f0b5.JPG)
+
+![10_описание приложения, работающего с БД (временно ArrayList)](https://user-images.githubusercontent.com/61631173/126773468-9e900220-b141-4339-ada5-0d5a04fe0ece.JPG)</p>
+После теории переход к написанию приложения, сделал скриншоты с работающего примера приложения, пока без подключения базы данных.</p>
+Класс контроллер PeopleController:
+![11_приложение_класс-контроллер PeopleController](https://user-images.githubusercontent.com/61631173/126775064-6b7aa7c8-04e2-4908-8c3a-3da3505b5888.JPG)
+Класс сущности Person:
+![12_приложение_класс сущности Person](https://user-images.githubusercontent.com/61631173/126774374-e113c6b0-a36b-4969-896e-c5d9d12c3a66.JPG)
+ Класс, работающий с БД - PersonDAO:
+![13_приложение_класс для работы с БД](https://user-images.githubusercontent.com/61631173/126774375-bc8d6a75-03ec-47a0-91b5-080b62beca53.JPG)
+Представление в виде html страницы, на которой выводится список людей:
+![14_приложение_html страница представления_index](https://user-images.githubusercontent.com/61631173/126774377-37fe0d1a-fc56-4d38-91aa-4226a44ea082.JPG)
+Представление в виде html страницы, на которой выводится имя и id человека:
+![15_приложение_html страница представления_show](https://user-images.githubusercontent.com/61631173/126774379-6bc0aa75-2eb8-4d6d-a5d3-113ccd332a82.JPG)
+страница браузера_вывод списка людей:
+![16_приложение_страница браузера_вывод списка людей_index](https://user-images.githubusercontent.com/61631173/126774367-0fcfd752-c5d2-4b5c-b88c-2f0596a7db6e.JPG)
+страница браузера_вывод человека по id:
+![17_приложение_страница браузера_вывод человека по id_show](https://user-images.githubusercontent.com/61631173/126774370-d4312bb6-4693-4452-95cd-775cecc8e362.JPG)
+_ _ _ _
+- _**Spring_CRUD_App2**_ - в данном приложении рассмотрена аннотация @ModelAttribute и HTML Формы (Thymeleaf).</p>
+![1_@ModelAttribute](https://user-images.githubusercontent.com/61631173/126778300-6885e46a-12c4-497d-a204-b3e9a6015729.JPG)
+![2_реализация прошлого урока](https://user-images.githubusercontent.com/61631173/126778307-8af25e3e-e0d6-48ab-a566-384314361ec0.JPG)
+![3_реализация этого урока](https://user-images.githubusercontent.com/61631173/126778308-31de7d48-8b4f-4acd-be7f-b9db256c0a93.JPG)
+![4_HTML формы](https://user-images.githubusercontent.com/61631173/126778310-5b4aabfa-dcd7-451a-a33c-c194f0fa9811.JPG)
+![5_HTML формы в Thymeleaf](https://user-images.githubusercontent.com/61631173/126778311-1d3c5c5a-c3a4-49c2-8ecc-9cca79a53e41.JPG)
+![6_на контроллере](https://user-images.githubusercontent.com/61631173/126778312-1c3cae85-7d02-47bb-b70d-227d66613e31.JPG)
+![7_@ModelAttribute](https://user-images.githubusercontent.com/61631173/126778313-e12f51ef-0b0d-4fe3-bc83-300f8c2006db.JPG)
+![8_@ModelAttribute_когда аннотируют](https://user-images.githubusercontent.com/61631173/126778315-83cd5502-7449-4927-9183-15b642c0b7fc.JPG)
+![9_@ModelAttribute_когда аннотируют2](https://user-images.githubusercontent.com/61631173/126778318-048d1d57-1708-444b-993b-b6e292123fde.JPG)
+![10_@ModelAttribute_когда аннотируют аргумент метода](https://user-images.githubusercontent.com/61631173/126778319-e34fe723-6997-49ed-8a08-c34ab2f9532d.JPG)
+![11_@ModelAttribute_когда аннотируют аргумент метода2](https://user-images.githubusercontent.com/61631173/126778321-aee3acfe-104c-41ca-b8af-369db4e9163c.JPG)
+
