@@ -50,4 +50,5 @@ public class PeopleController {
 		personDAO.save(person);
 		return "redirect:/people";
 	}
+
 }
