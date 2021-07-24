@@ -506,3 +506,12 @@ _ _ _ _
 ![6_пример_демо_вывод ошибки на странице при неправилном вводе](https://user-images.githubusercontent.com/61631173/126856666-eaf6dbd8-df9d-461c-aa03-3d1194c42ddb.JPG)
 </p>
 _ _ _ _
+![1_заголовок урока_БД](https://user-images.githubusercontent.com/61631173/126857288-df726044-a630-41ae-8cd0-a25d06736c5d.JPG)
+![2_проблема хранения данных в оперативной памяти](https://user-images.githubusercontent.com/61631173/126857291-859aee00-572d-4b14-bee2-398880ea18a9.JPG)
+![3_описание реляционных БД](https://user-images.githubusercontent.com/61631173/126857292-cd7723bc-7cc3-4688-a25f-55948a221538.JPG)
+![4_БД PostreSQL](https://user-images.githubusercontent.com/61631173/126857293-36b0dfe0-ac7d-4491-bf74-d4ca6f443c69.JPG)
+![5_связь Java приложения с БД](https://user-images.githubusercontent.com/61631173/126857294-d0bfaf6a-6e7a-40c0-b374-d65847e251ab.JPG)
+![6_связь Java приложения с БД_описание](https://user-images.githubusercontent.com/61631173/126857295-9afaaf1a-2171-4b10-9040-6a8f1aaefcde.JPG)
+![7_как подклюиться к БД](https://user-images.githubusercontent.com/61631173/126857296-89bec5f9-b512-4c44-8c0d-518104e0a0fd.JPG)
+![8_БД основные команды](https://user-images.githubusercontent.com/61631173/126857297-d21fec36-9f85-4aa2-9106-41be9bef9083.JPG)
+![9_цель этого урока_подключение БД вместо используемого списка](https://user-images.githubusercontent.com/61631173/126857298-5b5fc5fb-558a-4d6a-9feb-aef0480cec0e.JPG)
