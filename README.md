@@ -577,3 +577,6 @@ _ _ _ _
 Далее изменения в классе PersonDAO</p>
 ![9_пример_изменение класса PersonDAO и методов index, show](https://user-images.githubusercontent.com/61631173/126905177-517478bc-156f-45a9-bdab-b801331d8c43.JPG)</p>
 ![10_пример_изменение класса PersonDAO и методов save, update, delete](https://user-images.githubusercontent.com/61631173/126905179-0181ef0f-1a1a-4fe2-a63f-56807b66c506.JPG)</p>
+
+_ _ _ _ 
+
