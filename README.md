@@ -561,6 +561,12 @@ _ _ _ _
 ![12_ пример_страница занесения данных](https://user-images.githubusercontent.com/61631173/126901428-f5d62754-5d2f-4eac-9f88-5c738fbf012c.JPG)</p>
 ![13_ пример_страница списка занесенных данных](https://user-images.githubusercontent.com/61631173/126901429-c44fc231-2f06-404b-83fd-2585c68ff7d2.JPG)</p>
 ![14_ пример_просмотр занесенных данных в БД](https://user-images.githubusercontent.com/61631173/126901430-ef83e1f5-a7bc-49f8-b43d-fa34a7735fa9.JPG)</p>
-
+Таким образом переписали код и сделали SQLинъекцию.</p>
 _ _ _ _
-- 
+- **SpringTemplateJDBC** - в данном проекте переписан код с JDBC на обёртку Template фреймворка Spring, что позволило избавиться от лишнего кода.</p>
+![1_Spring_JDBC_Template_обёртка вокруг JDBC API](https://user-images.githubusercontent.com/61631173/126901921-eb69d519-22de-4331-b477-f6b18e40fbdf.JPG)</p>
+![2_Spring_JDBC_Template_проблемы JDBC API](https://user-images.githubusercontent.com/61631173/126901923-ec53cb0e-48f2-44d2-8a36-9d27c19f8988.JPG)</p>
+![3_Spring_JDBC_Template_проблемы JDBC API_2](https://user-images.githubusercontent.com/61631173/126901924-5f75e5ba-96ad-4ff9-b4c2-253548dd5327.JPG)</p>
+![4_Spring_JDBC_Template_проблемы JDBC API_3](https://user-images.githubusercontent.com/61631173/126901925-75614114-81c5-4395-a34e-b62ef870c8cd.JPG)</p>
+![5_Spring_JDBC_Template_обёртка JDBC API от Spring Fraemwork](https://user-images.githubusercontent.com/61631173/126901926-0428fe72-14ba-4a68-9a00-1bef1a167f19.JPG)</p>
+
