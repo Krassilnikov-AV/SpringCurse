@@ -506,7 +506,7 @@ _ _ _ _
 ![6_пример_демо_вывод ошибки на странице при неправилном вводе](https://user-images.githubusercontent.com/61631173/126856666-eaf6dbd8-df9d-461c-aa03-3d1194c42ddb.JPG)
 </p>
 _ _ _ _
-
+- **_Spring_StarterSpringJDBC_**
 ![1_заголовок урока_БД](https://user-images.githubusercontent.com/61631173/126857288-df726044-a630-41ae-8cd0-a25d06736c5d.JPG)</p>
 
 ![2_проблема хранения данных в оперативной памяти](https://user-images.githubusercontent.com/61631173/126857291-859aee00-572d-4b14-bee2-398880ea18a9.JPG)</p>
@@ -524,3 +524,8 @@ _ _ _ _
 ![8_БД основные команды](https://user-images.githubusercontent.com/61631173/126857297-d21fec36-9f85-4aa2-9106-41be9bef9083.JPG)</p>
 
 ![9_цель этого урока_подключение БД вместо используемого списка](https://user-images.githubusercontent.com/61631173/126857298-5b5fc5fb-558a-4d6a-9feb-aef0480cec0e.JPG)</p>
+
+Для выполнения выше изложенного, необходимо установить БД PostgreSQL и создать в ней таблицу с соответствующими столбцами:</p>
+![10_пример_демонстрация созданной таблицы в БД](https://user-images.githubusercontent.com/61631173/126887748-1d094b86-b054-4117-b690-06d3c515e33a.JPG)</p>
+
+_ _ _ _
