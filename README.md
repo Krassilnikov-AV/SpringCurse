@@ -544,6 +544,13 @@ _ _ _ _
 ... при нажатии на "_Create new person_" можно внести нового человека в БД, убедившись в таблице запросом и на странице браузера</p>
 ![15_пример_запрос на внесение данных в БД](https://user-images.githubusercontent.com/61631173/126895553-bced9bdc-74f9-4c49-81db-c703117661c8.JPG)</p>
 ![16_пример_вывод внесеных данных на странице браузера](https://user-images.githubusercontent.com/61631173/126895556-e91a2226-8d1c-42c9-8be6-6527c01fbeb1.JPG)</p>
-
-
 _ _ _ _
+
+- **Spring_SpringJDBC2** в приведённом проекте рассмотрены SQL инъекции!</p>
+![1_SQL запрос вручную](https://user-images.githubusercontent.com/61631173/126896634-ca965632-e245-431a-804a-f2454897d092.JPG)</p>
+![2_SQL инъекция](https://user-images.githubusercontent.com/61631173/126896635-3f2d67d0-a301-4f0b-bff1-5bc22616d361.JPG)</p>
+![3_другой вид SQL инъекция](https://user-images.githubusercontent.com/61631173/126896636-5351009f-46ac-429c-9bfe-7b2e159ec77a.JPG)</p>
+![4_защита от SQL инъекций - класс PreparedStatement](https://user-images.githubusercontent.com/61631173/126896637-606cfcac-3230-48d8-a3b1-6176c639c008.JPG)</p>
+![5_защита от SQL инъекций - класс PreparedStatement_попытка удалить страницу](https://user-images.githubusercontent.com/61631173/126896638-85df61f1-711d-4dc1-83b6-17f1b1023f11.JPG)</p>
+![6_защита от SQL инъекций - класс PreparedStatement_преимущества](https://user-images.githubusercontent.com/61631173/126896639-bc99b2f5-1af2-4756-b5bd-02fb6be3f442.JPG)</p>
+![7_ PreparedStatement_Statement](https://user-images.githubusercontent.com/61631173/126896682-f9e20cc6-f1e4-470d-9922-e0540e114301.JPG)</p>
