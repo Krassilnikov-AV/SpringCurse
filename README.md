@@ -1,5 +1,5 @@
 # SpringCurse</p>
-_В репозитории вкратце рассмотрены основные вопросы **фреймворка Spring** c примерами их реализации.</p>
+_В репозитории вкратце рассмотрены вопросы **фреймворка Spring** c примерами их реализации.</p>
 курс представлен на Ютуб канале https://www.youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ  Наилем Алишевым_
 _ _ _ _ 
 - SpringApp1 - простейшее приложение с использованием Spring Core
@@ -569,4 +569,11 @@ _ _ _ _
 ![3_Spring_JDBC_Template_проблемы JDBC API_2](https://user-images.githubusercontent.com/61631173/126901924-5f75e5ba-96ad-4ff9-b4c2-253548dd5327.JPG)</p>
 ![4_Spring_JDBC_Template_проблемы JDBC API_3](https://user-images.githubusercontent.com/61631173/126901925-75614114-81c5-4395-a34e-b62ef870c8cd.JPG)</p>
 ![5_Spring_JDBC_Template_обёртка JDBC API от Spring Fraemwork](https://user-images.githubusercontent.com/61631173/126901926-0428fe72-14ba-4a68-9a00-1bef1a167f19.JPG)</p>
-
+После, можно убедиться на практике выше изложенное....</p>
+![6_пример_добавленная аннотация_Spring_JDBC_](https://user-images.githubusercontent.com/61631173/126905173-877c96f8-8b4a-492b-b9f8-fc9e5a22fee7.JPG)</p>
+использовали class PersonMapper, после того как обнаружили дублирование кода в обращение к БД. После этого, обнаружили тривиальную вещь, которая описывает название колонок БД и сеттеров класса Person. Таким образом не обязательно использовать свой Mapper, а можно применить BeanPropertyRowMapper. </p>
+![7_пример_написанный class PersonMapper_после заменен на new BeanPropertyRowMapper](https://user-images.githubusercontent.com/61631173/126905174-85b9fcb2-f3be-4553-88ad-f954482e7f2d.JPG)</p>
+![8_пример_класс BeanPropertyRowMapper](https://user-images.githubusercontent.com/61631173/126905175-8746fb83-b0ea-4ba8-b40b-f1ef38e0b363.JPG)</p>
+Далее изменения в классе PersonDAO</p>
+![9_пример_изменение класса PersonDAO и методов index, show](https://user-images.githubusercontent.com/61631173/126905177-517478bc-156f-45a9-bdab-b801331d8c43.JPG)</p>
+![10_пример_изменение класса PersonDAO и методов save, update, delete](https://user-images.githubusercontent.com/61631173/126905179-0181ef0f-1a1a-4fe2-a63f-56807b66c506.JPG)</p>
