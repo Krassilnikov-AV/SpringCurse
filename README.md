@@ -545,7 +545,6 @@ _ _ _ _
 ![15_пример_запрос на внесение данных в БД](https://user-images.githubusercontent.com/61631173/126895553-bced9bdc-74f9-4c49-81db-c703117661c8.JPG)</p>
 ![16_пример_вывод внесеных данных на странице браузера](https://user-images.githubusercontent.com/61631173/126895556-e91a2226-8d1c-42c9-8be6-6527c01fbeb1.JPG)</p>
 _ _ _ _
-
 - **Spring_SpringJDBC2** в приведённом проекте рассмотрены SQL инъекции!</p>
 ![1_SQL запрос вручную](https://user-images.githubusercontent.com/61631173/126896634-ca965632-e245-431a-804a-f2454897d092.JPG)</p>
 ![2_SQL инъекция](https://user-images.githubusercontent.com/61631173/126896635-3f2d67d0-a301-4f0b-bff1-5bc22616d361.JPG)</p>
@@ -554,3 +553,14 @@ _ _ _ _
 ![5_защита от SQL инъекций - класс PreparedStatement_попытка удалить страницу](https://user-images.githubusercontent.com/61631173/126896638-85df61f1-711d-4dc1-83b6-17f1b1023f11.JPG)</p>
 ![6_защита от SQL инъекций - класс PreparedStatement_преимущества](https://user-images.githubusercontent.com/61631173/126896639-bc99b2f5-1af2-4756-b5bd-02fb6be3f442.JPG)</p>
 ![7_ PreparedStatement_Statement](https://user-images.githubusercontent.com/61631173/126896682-f9e20cc6-f1e4-470d-9922-e0540e114301.JPG)</p>
+... после теории, переход на практику и убеждаемся на примере работы инекции</p>
+![8_ пример_PreparedStatement_метод save](https://user-images.githubusercontent.com/61631173/126901431-e49fdb29-7cdb-4fe7-bf4d-1a4b1bb4aba3.JPG)</p>
+![9_ пример_PreparedStatement_метод update](https://user-images.githubusercontent.com/61631173/126901424-d0b8e7b2-c5c8-4b4a-8c91-44db08572c33.JPG)</p>
+![10_ пример_PreparedStatement_метод show](https://user-images.githubusercontent.com/61631173/126901425-c2f18b36-650a-4f49-ba8d-7a251d6bf353.JPG)</p>
+![11_ пример_PreparedStatement_метод delete](https://user-images.githubusercontent.com/61631173/126901427-110e8640-9126-4394-8876-7165b43bc36e.JPG)</p>
+![12_ пример_страница занесения данных](https://user-images.githubusercontent.com/61631173/126901428-f5d62754-5d2f-4eac-9f88-5c738fbf012c.JPG)</p>
+![13_ пример_страница списка занесенных данных](https://user-images.githubusercontent.com/61631173/126901429-c44fc231-2f06-404b-83fd-2585c68ff7d2.JPG)</p>
+![14_ пример_просмотр занесенных данных в БД](https://user-images.githubusercontent.com/61631173/126901430-ef83e1f5-a7bc-49f8-b43d-fa34a7735fa9.JPG)</p>
+
+_ _ _ _
+- 
