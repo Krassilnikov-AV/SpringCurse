@@ -551,6 +551,8 @@ _ _ _ _
 ![2_SQL инъекция](https://user-images.githubusercontent.com/61631173/126896635-3f2d67d0-a301-4f0b-bff1-5bc22616d361.JPG)</p>
 ![3_другой вид SQL инъекция](https://user-images.githubusercontent.com/61631173/126896636-5351009f-46ac-429c-9bfe-7b2e159ec77a.JPG)</p>
 ![4_защита от SQL инъекций - класс PreparedStatement](https://user-images.githubusercontent.com/61631173/126896637-606cfcac-3230-48d8-a3b1-6176c639c008.JPG)</p>
+
 [5_защита от SQL инъекций - класс PreparedStatement_попытка удалить страницу](https://user-images.githubusercontent.com/61631173/126896638-85df61f1-711d-4dc1-83b6-17f1b1023f11.JPG)</p>
+
 ![6_защита от SQL инъекций - класс PreparedStatement_преимущества](https://user-images.githubusercontent.com/61631173/126896639-bc99b2f5-1af2-4756-b5bd-02fb6be3f442.JPG)</p>
 ![7_ PreparedStatement_Statement](https://user-images.githubusercontent.com/61631173/126896682-f9e20cc6-f1e4-470d-9922-e0540e114301.JPG)</p>
