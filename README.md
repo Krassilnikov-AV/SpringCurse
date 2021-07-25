@@ -561,7 +561,7 @@ _ _ _ _
 ![12_ пример_страница занесения данных](https://user-images.githubusercontent.com/61631173/126901428-f5d62754-5d2f-4eac-9f88-5c738fbf012c.JPG)</p>
 ![13_ пример_страница списка занесенных данных](https://user-images.githubusercontent.com/61631173/126901429-c44fc231-2f06-404b-83fd-2585c68ff7d2.JPG)</p>
 ![14_ пример_просмотр занесенных данных в БД](https://user-images.githubusercontent.com/61631173/126901430-ef83e1f5-a7bc-49f8-b43d-fa34a7735fa9.JPG)</p>
-Таким образом переписали код и сделали SQLинъекцию.</p>
+Таким образом переписали код и предотвратили SQLинъекции.</p>
 _ _ _ _
 - **SpringTemplateJDBC** - в данном проекте переписан код с JDBC на обёртку Template фреймворка Spring, что позволило избавиться от лишнего кода.</p>
 ![1_Spring_JDBC_Template_обёртка вокруг JDBC API](https://user-images.githubusercontent.com/61631173/126901921-eb69d519-22de-4331-b477-f6b18e40fbdf.JPG)</p>
