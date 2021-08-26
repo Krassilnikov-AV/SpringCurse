@@ -510,7 +510,7 @@ _ _ _ _
 ![6_пример_демо_вывод ошибки на странице при неправилном вводе](https://user-images.githubusercontent.com/61631173/126856666-eaf6dbd8-df9d-461c-aa03-3d1194c42ddb.JPG)
 </p>
 _ _ _ _
-- **_Spring_StarterSpringJDBC_**
+- **_Spring_StarterSpringJDBC_**</p>
 ![1_заголовок урока_БД](https://user-images.githubusercontent.com/61631173/126857288-df726044-a630-41ae-8cd0-a25d06736c5d.JPG)</p>
 
 ![2_проблема хранения данных в оперативной памяти](https://user-images.githubusercontent.com/61631173/126857291-859aee00-572d-4b14-bee2-398880ea18a9.JPG)</p>
