@@ -1,4 +1,16 @@
 # SpringCurse</p>
+СОДЕРЖАНИЕ:</p>
+- SpringApp1 - простейшее приложение с использованием Spring Core</p>
+- SpringApp_IoC</p>
+- SpringApp_DI</p>
+- SpringApp_DI_Setter - внедрение зависимостей ч/з Setter</p>
+- SpringApp_Scopes</p>
+- SpringApp_InitDestroyAndFactory</p>
+- SpringApp_AnnotationStart</p>
+- SpringApp_Autowired - Внедрение зависмостей (Dependency Injectiin)</p>
+- </p>
+
+
 Spring</p>
 • Изначально создавался для облегчения разработки JavaEE-приложений</p>
 • Сейчас на нём разрабатываются, как JavaEE, так и JavaSE-приложения</p>
