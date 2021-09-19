@@ -14,6 +14,13 @@
 - Spring MVC </p>
 - SpringMVCAppWebXML - приложение с xml конфигурацией</p>
 - SpringMVCAppJavaConfig - первое Spring MVC приложение</p>
+- теория  GET и POST</p>
+- SpringRequestParameters GET запросы и обработка параметров в URL запросе</p>
+- SpringIntroToModel - передача данных от контроллера к модели MVC</p>
+- Spring_CRUD_App - реализация CRUD приложения для сущности Person</p>
+- Spring_CRUD_App2 - рассмотрение аннотации @ModelAttribute и HTML Формы (Thymeleaf).</p>
+- Spring_CRUD_App3 - доработаное, возможность обновления и удаления данных</p>
+- Spring_FormsValidation - продолжение предыдущего проекта, в начале которого добавлено пару параметров: возвраст и эл.почта</p>
 -  </p>
 
 
