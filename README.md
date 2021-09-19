@@ -581,7 +581,7 @@ _ _ _ _ _ _
 ![16_пример_вывод внесеных данных на странице браузера](https://user-images.githubusercontent.com/61631173/126895556-e91a2226-8d1c-42c9-8be6-6527c01fbeb1.JPG)</p>
 
 _ _ _ _
-
+</p>
 - **Spring_SpringJDBC2** в приведённом проекте рассмотрены SQL инъекции!</p>
 ![1_SQL запрос вручную](https://user-images.githubusercontent.com/61631173/126896634-ca965632-e245-431a-804a-f2454897d092.JPG)</p>
 ![2_SQL инъекция](https://user-images.githubusercontent.com/61631173/126896635-3f2d67d0-a301-4f0b-bff1-5bc22616d361.JPG)</p>
