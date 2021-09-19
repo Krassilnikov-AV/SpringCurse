@@ -8,7 +8,13 @@
 - SpringApp_InitDestroyAndFactory</p>
 - SpringApp_AnnotationStart</p>
 - SpringApp_Autowired - Внедрение зависмостей (Dependency Injectiin)</p>
-- </p>
+- Аннотации Qualifier - для уточнения зависимостей</p>
+- Аннотации @Scope_@Value_@PostConstructor_PreDestroy</p>
+- SpringApp_Config_JavaCode - замена конфигураций xml на Java Code. Использование @Bean.</p>
+- Spring MVC </p>
+- SpringMVCAppWebXML - приложение с xml конфигурацией</p>
+- SpringMVCAppJavaConfig - первое Spring MVC приложение</p>
+-  </p>
 
 
 Spring</p>
