@@ -21,7 +21,9 @@
 - Spring_CRUD_App2 - рассмотрение аннотации @ModelAttribute и HTML Формы (Thymeleaf).</p>
 - Spring_CRUD_App3 - доработаное, возможность обновления и удаления данных</p>
 - Spring_FormsValidation - продолжение предыдущего проекта, в начале которого добавлено пару параметров: возвраст и эл.почта</p>
--  </p>
+- Spring_StarterSpringJDBC - виды связи Java с БД; создание соединения протоколу JDBC в классе PersonDAO c контроллером PeopleController</p>
+- Spring_SpringJDBC2 - SQL инъекции; преимущества PreparedStatement</p>
+- SpringTemplateJDBC - показана обёртка Template фреймворка Spring (избавление от лишнего кода) </p>
 
 
 Spring</p>
@@ -597,7 +599,8 @@ _ _ _ _
 ![13_ пример_страница списка занесенных данных](https://user-images.githubusercontent.com/61631173/126901429-c44fc231-2f06-404b-83fd-2585c68ff7d2.JPG)</p>
 ![14_ пример_просмотр занесенных данных в БД](https://user-images.githubusercontent.com/61631173/126901430-ef83e1f5-a7bc-49f8-b43d-fa34a7735fa9.JPG)</p>
 Таким образом переписали код и предотвратили SQLинъекции.</p>
-_ _ _ _</p>
+_ _ _ _ _ _
+</p>
 - **SpringTemplateJDBC** - в данном проекте переписан код с JDBC на обёртку Template фреймворка Spring, что позволило избавиться от лишнего кода.</p>
 ![1_Spring_JDBC_Template_обёртка вокруг JDBC API](https://user-images.githubusercontent.com/61631173/126901921-eb69d519-22de-4331-b477-f6b18e40fbdf.JPG)</p>
 ![2_Spring_JDBC_Template_проблемы JDBC API](https://user-images.githubusercontent.com/61631173/126901923-ec53cb0e-48f2-44d2-8a36-9d27c19f8988.JPG)</p>
