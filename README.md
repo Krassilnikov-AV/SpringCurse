@@ -1,4 +1,35 @@
 # SpringCurse</p>
+СОДЕРЖАНИЕ:</p>
+- SpringApp1 - простейшее приложение с использованием Spring Core</p>
+- SpringApp_IoC</p>
+- SpringApp_DI</p>
+- SpringApp_DI_Setter - внедрение зависимостей ч/з Setter</p>
+- SpringApp_Scopes</p>
+- SpringApp_InitDestroyAndFactory</p>
+- SpringApp_AnnotationStart</p>
+- SpringApp_Autowired - Внедрение зависмостей (Dependency Injectiin)</p>
+- Аннотации Qualifier - для уточнения зависимостей</p>
+- Аннотации @Scope_@Value_@PostConstructor_PreDestroy</p>
+- SpringApp_Config_JavaCode - замена конфигураций xml на Java Code. Использование @Bean.</p>
+- Spring MVC </p>
+- SpringMVCAppWebXML - приложение с xml конфигурацией</p>
+- SpringMVCAppJavaConfig - первое Spring MVC приложение</p>
+- теория  GET и POST</p>
+- SpringRequestParameters GET запросы и обработка параметров в URL запросе</p>
+- SpringIntroToModel - передача данных от контроллера к модели MVC</p>
+- Spring_CRUD_App - реализация CRUD приложения для сущности Person</p>
+- Spring_CRUD_App2 - рассмотрение аннотации @ModelAttribute и HTML Формы (Thymeleaf).</p>
+- Spring_CRUD_App3 - доработаное, возможность обновления и удаления данных</p>
+- Spring_FormsValidation - продолжение предыдущего проекта, в начале которого добавлено пару параметров: возвраст и эл.почта</p>
+- Spring_StarterSpringJDBC - виды связи Java с БД; создание соединения протоколу JDBC в классе PersonDAO c контроллером PeopleController</p>
+- Spring_SpringJDBC2 - SQL инъекции; преимущества PreparedStatement</p>
+- SpringTemplateJDBC - показана обёртка Template фреймворка Spring (избавление от лишнего кода) </p>
+
+
+Spring</p>
+• Изначально создавался для облегчения разработки JavaEE-приложений</p>
+• Сейчас на нём разрабатываются, как JavaEE, так и JavaSE-приложения</p>
+
 _В репозитории вкратце рассмотрены вопросы **фреймворка Spring** c примерами их реализации.</p>
 курс представлен на Ютуб канале https://www.youtube.com/playlist?list=PLAma_mKffTOR5o0WNHnY0mTjKxnCgSXrZ  Наилем Алишевым_
 _ _ _ _ 
@@ -416,6 +447,7 @@ _ _ _ _
 страница браузера_вывод человека по id:
 ![17_приложение_страница браузера_вывод человека по id_show](https://user-images.githubusercontent.com/61631173/126774370-d4312bb6-4693-4452-95cd-775cecc8e362.JPG)
 _ _ _ _
+
 - _**Spring_CRUD_App2**_ - в данном приложении рассмотрена аннотация @ModelAttribute и HTML Формы (Thymeleaf).</p>
 ![1_@ModelAttribute](https://user-images.githubusercontent.com/61631173/126778300-6885e46a-12c4-497d-a204-b3e9a6015729.JPG)
 ![2_реализация прошлого урока](https://user-images.githubusercontent.com/61631173/126778307-8af25e3e-e0d6-48ab-a566-384314361ec0.JPG)
@@ -487,9 +519,11 @@ _форма delete в странице html Show_</p>
 ![17_пример_страница браузера списка людей](https://user-images.githubusercontent.com/61631173/126823434-85c94b37-f912-4ddf-a122-385c98008150.JPG)</p>
 ![18_пример_страница браузера для просмотра, редактирования и удаления персоны](https://user-images.githubusercontent.com/61631173/126823437-0f89d85a-581c-4b85-ba53-b06a6ceaee46.JPG)</p>
 ![19_пример_страница браузера списка людей после удаления из списка персоны Sanya](https://user-images.githubusercontent.com/61631173/126823439-374c3f26-dc2b-48b4-923a-da220b18a4af.JPG)</p>
-_ _ _ _ 
+
+_ _ _ _ _ _ _
 
 - **_Spring_FormsValidation_** - данный проект, продолжение предыдущего, в начале которого добавлено пару параметров: возвраст и эл.почта</p>
+
 <!-- В начале проект добавляется зависимость: </p> -->
 **цель урока**: научиться правильно офрмлять поля для их адекватного заполнения (например: в поле Email не должны вводиться данные эл. почты без @).</p>
 Всего этого можно добиться при помощи специальных аннотаций, которые подгружаются после добавления зависимости hibernate-validator в файл pom.xml
@@ -503,10 +537,12 @@ _ _ _ _
 ![4_пример_добавление тегов с условием о возникновении ошибок на странице update](https://user-images.githubusercontent.com/61631173/126856524-28c448d8-8ef1-47b1-be82-e67ce111c52d.JPG)</p>
 ![5_пример_добавление тегов с условием о возникновении ошибок](https://user-images.githubusercontent.com/61631173/126856525-1668c506-0442-428e-9e10-342141e243b8.JPG)</p>
 ... после всего проделанного можно запустить приложение и убедиться в выводе информации об ошибках при не правильно введённой информации:</p>
-![6_пример_демо_вывод ошибки на странице при неправилном вводе](https://user-images.githubusercontent.com/61631173/126856666-eaf6dbd8-df9d-461c-aa03-3d1194c42ddb.JPG)
-</p>
-_ _ _ _
-- **_Spring_StarterSpringJDBC_**
+![6_пример_демо_вывод ошибки на странице при неправилном вводе](https://user-images.githubusercontent.com/61631173/126856666-eaf6dbd8-df9d-461c-aa03-3d1194c42ddb.JPG)</p>
+
+_ _ _ _ _ _
+
+- **_Spring_StarterSpringJDBC_**</p>
+
 ![1_заголовок урока_БД](https://user-images.githubusercontent.com/61631173/126857288-df726044-a630-41ae-8cd0-a25d06736c5d.JPG)</p>
 
 ![2_проблема хранения данных в оперативной памяти](https://user-images.githubusercontent.com/61631173/126857291-859aee00-572d-4b14-bee2-398880ea18a9.JPG)</p>
@@ -545,6 +581,7 @@ _ _ _ _
 ![15_пример_запрос на внесение данных в БД](https://user-images.githubusercontent.com/61631173/126895553-bced9bdc-74f9-4c49-81db-c703117661c8.JPG)</p>
 ![16_пример_вывод внесеных данных на странице браузера](https://user-images.githubusercontent.com/61631173/126895556-e91a2226-8d1c-42c9-8be6-6527c01fbeb1.JPG)</p>
 _ _ _ _
+
 - **Spring_SpringJDBC2** в приведённом проекте рассмотрены SQL инъекции!</p>
 ![1_SQL запрос вручную](https://user-images.githubusercontent.com/61631173/126896634-ca965632-e245-431a-804a-f2454897d092.JPG)</p>
 ![2_SQL инъекция](https://user-images.githubusercontent.com/61631173/126896635-3f2d67d0-a301-4f0b-bff1-5bc22616d361.JPG)</p>
@@ -562,9 +599,12 @@ _ _ _ _
 ![13_ пример_страница списка занесенных данных](https://user-images.githubusercontent.com/61631173/126901429-c44fc231-2f06-404b-83fd-2585c68ff7d2.JPG)</p>
 ![14_ пример_просмотр занесенных данных в БД](https://user-images.githubusercontent.com/61631173/126901430-ef83e1f5-a7bc-49f8-b43d-fa34a7735fa9.JPG)</p>
 Таким образом переписали код и предотвратили SQLинъекции.</p>
-_ _ _ _
+_ _ _ _ _ _
+
 - **SpringTemplateJDBC** - в данном проекте переписан код с JDBC на обёртку Template фреймворка Spring, что позволило избавиться от лишнего кода.</p>
+
 ![1_Spring_JDBC_Template_обёртка вокруг JDBC API](https://user-images.githubusercontent.com/61631173/126901921-eb69d519-22de-4331-b477-f6b18e40fbdf.JPG)</p>
+
 ![2_Spring_JDBC_Template_проблемы JDBC API](https://user-images.githubusercontent.com/61631173/126901923-ec53cb0e-48f2-44d2-8a36-9d27c19f8988.JPG)</p>
 ![3_Spring_JDBC_Template_проблемы JDBC API_2](https://user-images.githubusercontent.com/61631173/126901924-5f75e5ba-96ad-4ff9-b4c2-253548dd5327.JPG)</p>
 ![4_Spring_JDBC_Template_проблемы JDBC API_3](https://user-images.githubusercontent.com/61631173/126901925-75614114-81c5-4395-a34e-b62ef870c8cd.JPG)</p>
@@ -577,3 +617,6 @@ _ _ _ _
 Далее изменения в классе PersonDAO</p>
 ![9_пример_изменение класса PersonDAO и методов index, show](https://user-images.githubusercontent.com/61631173/126905177-517478bc-156f-45a9-bdab-b801331d8c43.JPG)</p>
 ![10_пример_изменение класса PersonDAO и методов save, update, delete](https://user-images.githubusercontent.com/61631173/126905179-0181ef0f-1a1a-4fe2-a63f-56807b66c506.JPG)</p>
+
+_ _ _ _ 
+
