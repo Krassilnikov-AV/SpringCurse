@@ -6,9 +6,6 @@ package ru.krasilnikov.spring.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
-/**
- * Класс MySpringMvcDispatcherServletInitializer
- */
 public class MySpringMvcDispatcherServletInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
 
 	@Override
