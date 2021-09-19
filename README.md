@@ -529,7 +529,7 @@ _ _ _ _ _ _ _
 ... после всего проделанного можно запустить приложение и убедиться в выводе информации об ошибках при не правильно введённой информации:</p>
 ![6_пример_демо_вывод ошибки на странице при неправилном вводе](https://user-images.githubusercontent.com/61631173/126856666-eaf6dbd8-df9d-461c-aa03-3d1194c42ddb.JPG)
 </p>
-_ _ _ _
+_ _ _ _</p>
 - **_Spring_StarterSpringJDBC_**</p>
 ![1_заголовок урока_БД](https://user-images.githubusercontent.com/61631173/126857288-df726044-a630-41ae-8cd0-a25d06736c5d.JPG)</p>
 
@@ -568,7 +568,7 @@ _ _ _ _
 ... при нажатии на "_Create new person_" можно внести нового человека в БД, убедившись в таблице запросом и на странице браузера</p>
 ![15_пример_запрос на внесение данных в БД](https://user-images.githubusercontent.com/61631173/126895553-bced9bdc-74f9-4c49-81db-c703117661c8.JPG)</p>
 ![16_пример_вывод внесеных данных на странице браузера](https://user-images.githubusercontent.com/61631173/126895556-e91a2226-8d1c-42c9-8be6-6527c01fbeb1.JPG)</p>
-_ _ _ _
+_ _ _ _</p>
 - **Spring_SpringJDBC2** в приведённом проекте рассмотрены SQL инъекции!</p>
 ![1_SQL запрос вручную](https://user-images.githubusercontent.com/61631173/126896634-ca965632-e245-431a-804a-f2454897d092.JPG)</p>
 ![2_SQL инъекция](https://user-images.githubusercontent.com/61631173/126896635-3f2d67d0-a301-4f0b-bff1-5bc22616d361.JPG)</p>
@@ -586,7 +586,7 @@ _ _ _ _
 ![13_ пример_страница списка занесенных данных](https://user-images.githubusercontent.com/61631173/126901429-c44fc231-2f06-404b-83fd-2585c68ff7d2.JPG)</p>
 ![14_ пример_просмотр занесенных данных в БД](https://user-images.githubusercontent.com/61631173/126901430-ef83e1f5-a7bc-49f8-b43d-fa34a7735fa9.JPG)</p>
 Таким образом переписали код и предотвратили SQLинъекции.</p>
-_ _ _ _
+_ _ _ _</p>
 - **SpringTemplateJDBC** - в данном проекте переписан код с JDBC на обёртку Template фреймворка Spring, что позволило избавиться от лишнего кода.</p>
 ![1_Spring_JDBC_Template_обёртка вокруг JDBC API](https://user-images.githubusercontent.com/61631173/126901921-eb69d519-22de-4331-b477-f6b18e40fbdf.JPG)</p>
 ![2_Spring_JDBC_Template_проблемы JDBC API](https://user-images.githubusercontent.com/61631173/126901923-ec53cb0e-48f2-44d2-8a36-9d27c19f8988.JPG)</p>
